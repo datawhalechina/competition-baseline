@@ -1,0 +1,372 @@
+2019-06-15 22:44:27,591 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torchvision/models/resnet.py
+2019-06-15 22:44:27,625 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/nn/modules/module.py
+2019-06-15 22:44:27,641 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/nn/backends/thnn.py
+2019-06-15 22:44:27,659 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/collections/__init__.py
+2019-06-15 22:46:02,000 - diff.py[line:213]: diff parser start
+2019-06-15 22:46:02,000 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:46:02,000 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:46:02,001 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:46:02,001 - diff.py[line:264]: diff parser end
+2019-06-15 22:46:02,029 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/nn/modules/container.py
+2019-06-15 22:46:02,042 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/__init__.py
+2019-06-15 22:46:02,053 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/__init__.py
+2019-06-15 22:46:02,056 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/__init__.py
+2019-06-15 22:46:02,900 - diff.py[line:213]: diff parser start
+2019-06-15 22:46:02,901 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:46:02,901 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:46:02,901 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:46:02,902 - diff.py[line:264]: diff parser end
+2019-06-15 22:46:02,917 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/random.py
+2019-06-15 22:49:26,325 - diff.py[line:213]: diff parser start
+2019-06-15 22:49:26,325 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:49:26,325 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:49:26,326 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:49:26,326 - diff.py[line:264]: diff parser end
+2019-06-15 22:53:48,616 - diff.py[line:213]: diff parser start
+2019-06-15 22:53:48,617 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:53:48,617 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:53:48,617 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:53:48,617 - diff.py[line:264]: diff parser end
+2019-06-15 22:53:48,626 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torchvision/datasets/__init__.py
+2019-06-15 22:53:48,649 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/datetime.py
+2019-06-15 22:53:49,732 - diff.py[line:213]: diff parser start
+2019-06-15 22:53:49,733 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:53:49,733 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:53:49,734 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:53:49,734 - diff.py[line:264]: diff parser end
+2019-06-15 22:53:49,744 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/utils/data/dataset.py
+2019-06-15 22:53:49,786 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/nn/functional.py
+2019-06-15 22:53:49,808 - cache.py[line:127]: pickle loaded: /usr/lib/python3/dist-packages/PIL/Image.py
+2019-06-15 22:53:49,829 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/sklearn/model_selection/_split.py
+2019-06-15 22:53:49,835 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/autograd/variable.py
+2019-06-15 22:53:49,838 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/api/interpreter.py
+2019-06-15 22:53:49,886 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/argparse.py
+2019-06-15 22:53:49,886 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/autocall.py
+2019-06-15 22:53:49,911 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py
+2019-06-15 22:53:49,924 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/glob.py
+2019-06-15 22:53:49,933 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/json/__init__.py
+2019-06-15 22:53:49,945 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/logging/__init__.py
+2019-06-15 22:53:49,946 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torchvision/models/__init__.py
+2019-06-15 22:53:49,946 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/nn/__init__.py
+2019-06-15 22:53:49,947 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/__init__.py
+2019-06-15 22:53:49,948 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/__init__.py
+2019-06-15 22:53:49,955 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/os.py
+2019-06-15 22:53:49,970 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/pandas/__init__.py
+2019-06-15 22:53:49,994 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/pdb.py
+2019-06-15 22:53:50,014 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/tqdm/_tqdm.py
+2019-06-15 22:53:50,029 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/traceback.py
+2019-06-15 22:53:50,029 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torchvision/transforms/__init__.py
+2019-06-15 22:53:50,266 - diff.py[line:213]: diff parser start
+2019-06-15 22:53:50,266 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:53:50,266 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:53:50,267 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:53:50,267 - diff.py[line:264]: diff parser end
+2019-06-15 22:53:50,349 - diff.py[line:213]: diff parser start
+2019-06-15 22:53:50,349 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:53:50,349 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:53:50,350 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:53:50,351 - diff.py[line:264]: diff parser end
+2019-06-15 22:53:51,978 - diff.py[line:213]: diff parser start
+2019-06-15 22:53:51,978 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:53:51,978 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:53:51,980 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:53:51,980 - diff.py[line:264]: diff parser end
+2019-06-15 22:54:48,430 - diff.py[line:213]: diff parser start
+2019-06-15 22:54:48,431 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 22:54:48,431 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 22:54:48,432 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:54:48,432 - diff.py[line:264]: diff parser end
+2019-06-15 22:56:37,805 - diff.py[line:213]: diff parser start
+2019-06-15 22:56:37,805 - diff.py[line:224]: line_lengths old: 1; new: 19
+2019-06-15 22:56:37,806 - diff.py[line:228]: -> code[replace] old[1:1] new[1:19]
+2019-06-15 22:56:37,808 - diff.py[line:341]: parse_part from 1 to 19 (to 18 in part parser)
+2019-06-15 22:56:37,808 - diff.py[line:264]: diff parser end
+2019-06-15 22:56:37,869 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/posixpath.py
+2019-06-15 22:56:43,846 - diff.py[line:213]: diff parser start
+2019-06-15 22:56:43,847 - diff.py[line:224]: line_lengths old: 19; new: 19
+2019-06-15 22:56:43,847 - diff.py[line:228]: -> code[equal] old[1:18] new[1:18]
+2019-06-15 22:56:43,847 - diff.py[line:299]: copy old[1:18] new[1:17]
+2019-06-15 22:56:43,849 - diff.py[line:341]: parse_part from 18 to 19 (to 18 in part parser)
+2019-06-15 22:56:43,849 - diff.py[line:228]: -> code[replace] old[19:19] new[19:19]
+2019-06-15 22:56:43,849 - diff.py[line:264]: diff parser end
+2019-06-15 22:56:45,887 - diff.py[line:213]: diff parser start
+2019-06-15 22:56:45,888 - diff.py[line:224]: line_lengths old: 19; new: 19
+2019-06-15 22:56:45,888 - diff.py[line:228]: -> code[equal] old[1:18] new[1:18]
+2019-06-15 22:56:45,888 - diff.py[line:299]: copy old[1:18] new[1:17]
+2019-06-15 22:56:45,890 - diff.py[line:341]: parse_part from 18 to 19 (to 18 in part parser)
+2019-06-15 22:56:45,890 - diff.py[line:228]: -> code[replace] old[19:19] new[19:19]
+2019-06-15 22:56:45,890 - diff.py[line:264]: diff parser end
+2019-06-15 22:57:12,450 - diff.py[line:213]: diff parser start
+2019-06-15 22:57:12,450 - diff.py[line:224]: line_lengths old: 19; new: 1
+2019-06-15 22:57:12,451 - diff.py[line:228]: -> code[replace] old[1:19] new[1:1]
+2019-06-15 22:57:12,451 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 22:57:12,451 - diff.py[line:264]: diff parser end
+2019-06-15 23:11:42,919 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-15 23:11:42,920 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-15 23:11:42,920 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-15 23:11:42,920 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-15 23:21:20,822 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/__init__.py
+2019-06-15 23:21:22,330 - diff.py[line:213]: diff parser start
+2019-06-15 23:21:22,330 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-15 23:21:22,330 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-15 23:21:22,331 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-15 23:21:22,331 - diff.py[line:264]: diff parser end
+2019-06-15 23:21:22,345 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/random.py
+2019-06-15 23:55:52,270 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-15 23:55:52,271 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-15 23:55:52,271 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-15 23:55:52,271 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 00:40:40,764 - diff.py[line:213]: diff parser start
+2019-06-16 00:40:40,764 - diff.py[line:224]: line_lengths old: 1; new: 14
+2019-06-16 00:40:40,764 - diff.py[line:228]: -> code[replace] old[1:1] new[1:14]
+2019-06-16 00:40:40,770 - diff.py[line:341]: parse_part from 1 to 14 (to 13 in part parser)
+2019-06-16 00:40:40,770 - diff.py[line:264]: diff parser end
+2019-06-16 00:52:08,449 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 00:52:08,449 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 00:52:08,449 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 00:52:08,449 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 00:58:42,761 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/__init__.py
+2019-06-16 00:58:42,762 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/__init__.py
+2019-06-16 00:58:42,786 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/asgd.py
+2019-06-16 00:58:42,790 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/adadelta.py
+2019-06-16 00:58:42,796 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/adagrad.py
+2019-06-16 00:58:42,800 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/adam.py
+2019-06-16 00:58:42,803 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/optim/adamax.py
+2019-06-16 00:58:42,911 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap_external.py
+2019-06-16 00:58:42,943 - cache.py[line:127]: pickle loaded: /usr/lib/python3.6/importlib/_bootstrap.py
+2019-06-16 01:05:18,422 - diff.py[line:213]: diff parser start
+2019-06-16 01:05:18,422 - diff.py[line:224]: line_lengths old: 29; new: 1
+2019-06-16 01:05:18,422 - diff.py[line:228]: -> code[replace] old[1:29] new[1:1]
+2019-06-16 01:05:18,423 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 01:05:18,423 - diff.py[line:264]: diff parser end
+2019-06-16 01:05:19,871 - diff.py[line:213]: diff parser start
+2019-06-16 01:05:19,871 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-16 01:05:19,872 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-16 01:05:19,872 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 01:05:19,872 - diff.py[line:264]: diff parser end
+2019-06-16 01:05:19,888 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/torch/random.py
+2019-06-16 01:08:26,016 - diff.py[line:213]: diff parser start
+2019-06-16 01:08:26,016 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-16 01:08:26,016 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-16 01:08:26,018 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 01:08:26,018 - diff.py[line:264]: diff parser end
+2019-06-16 01:08:27,230 - diff.py[line:213]: diff parser start
+2019-06-16 01:08:27,230 - diff.py[line:224]: line_lengths old: 1; new: 1
+2019-06-16 01:08:27,230 - diff.py[line:228]: -> code[replace] old[1:1] new[1:1]
+2019-06-16 01:08:27,231 - diff.py[line:341]: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 01:08:27,232 - diff.py[line:264]: diff parser end
+2019-06-16 01:09:57,742 - diff.py[line:213]: diff parser start
+2019-06-16 01:09:57,742 - diff.py[line:224]: line_lengths old: 1; new: 12
+2019-06-16 01:09:57,742 - diff.py[line:228]: -> code[replace] old[1:1] new[1:12]
+2019-06-16 01:09:57,747 - diff.py[line:341]: parse_part from 1 to 12 (to 11 in part parser)
+2019-06-16 01:09:57,747 - diff.py[line:264]: diff parser end
+2019-06-16 01:09:57,750 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/__init__.py
+2019-06-16 01:09:57,770 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/core/numeric.py
+2019-06-16 01:10:08,739 - diff.py[line:213]: diff parser start
+2019-06-16 01:10:08,740 - diff.py[line:224]: line_lengths old: 12; new: 12
+2019-06-16 01:10:08,740 - diff.py[line:228]: -> code[equal] old[1:11] new[1:11]
+2019-06-16 01:10:08,742 - diff.py[line:341]: parse_part from 1 to 3 (to 3 in part parser)
+2019-06-16 01:10:08,742 - diff.py[line:299]: copy old[5:5] new[4:5]
+2019-06-16 01:10:08,745 - diff.py[line:341]: parse_part from 6 to 12 (to 11 in part parser)
+2019-06-16 01:10:08,745 - diff.py[line:228]: -> code[replace] old[12:12] new[12:12]
+2019-06-16 01:10:08,745 - diff.py[line:264]: diff parser end
+2019-06-16 01:10:08,764 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/lib/shape_base.py
+2019-06-16 01:10:08,767 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/numpy/core/shape_base.py
+2019-06-16 01:18:22,700 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 01:18:22,700 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 01:18:22,700 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 01:18:22,700 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 01:20:03,458 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/tqdm/__init__.py
+2019-06-16 01:20:05,108 - diff.py[line:213]: diff parser start
+2019-06-16 01:20:05,109 - diff.py[line:224]: line_lengths old: 5; new: 5
+2019-06-16 01:20:05,109 - diff.py[line:228]: -> code[equal] old[1:4] new[1:4]
+2019-06-16 01:20:05,109 - diff.py[line:299]: copy old[2:4] new[1:4]
+2019-06-16 01:20:05,109 - diff.py[line:228]: -> code[replace] old[5:5] new[5:5]
+2019-06-16 01:20:05,110 - diff.py[line:341]: parse_part from 5 to 5 (to 4 in part parser)
+2019-06-16 01:20:05,110 - diff.py[line:264]: diff parser end
+2019-06-16 01:20:05,129 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/tqdm/_tqdm.py
+2019-06-16 01:20:05,170 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/tqdm/_tqdm_gui.py
+2019-06-16 01:20:05,175 - cache.py[line:127]: pickle loaded: /usr/local/lib/python3.6/dist-packages/tqdm/_tqdm_pandas.py
+2019-06-16 01:28:40,626 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 01:28:40,626 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 01:28:40,626 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 01:28:40,627 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 01:34:03,920 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 01:34:03,920 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 01:34:03,920 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 01:34:03,920 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 01:34:19,630 - connectionpool.py[line:826]: Starting new HTTPS connection (1): download.pytorch.org
+2019-06-16 01:34:20,499 - connectionpool.py[line:396]: https://download.pytorch.org:443 "GET /models/resnet34-333f7ec4.pth HTTP/1.1" 200 87306240
+2019-06-16 01:38:44,380 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 01:38:44,380 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 01:38:44,380 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 01:38:44,380 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 01:46:12,894 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 01:46:12,895 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 01:46:12,895 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 01:46:12,895 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 02:10:45,341 - alias.py[line:221]: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 02:10:45,341 - alias.py[line:221]: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 02:10:45,341 - alias.py[line:221]: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 02:10:45,342 - alias.py[line:221]: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-24 16:08:25,319 - 1_train.py[line:311]: 0: Train_0.466379625231, Val_0.0319153989355/0.978628389155, best_0.978628389155
+2019-06-24 16:09:18,828 - 1_train.py[line:311]: 1: Train_0.0266153306752, Val_0.0222060876376/0.982205513784, best_0.982205513784
+2019-06-24 16:10:12,348 - 1_train.py[line:311]: 2: Train_0.0139819442326, Val_0.0150790787588/0.982889040784, best_0.982889040784
+2019-06-24 16:11:06,180 - 1_train.py[line:311]: 3: Train_0.0139166214148, Val_0.0192954110782/0.975871496924, best_0.982889040784
+2019-06-24 16:12:00,426 - 1_train.py[line:311]: 4: Train_0.00892916635135, Val_0.0161929384135/0.987012987013, best_0.987012987013
+2019-06-24 16:12:54,575 - 1_train.py[line:311]: 5: Train_0.0081315397973, Val_0.0141340045834/0.987969924812, best_0.987969924812
+2019-06-24 16:13:48,600 - 1_train.py[line:311]: 6: Train_0.00744701414969, Val_0.0137512243798/0.987719298246, best_0.987969924812
+2019-06-24 16:14:42,601 - 1_train.py[line:311]: 7: Train_0.00603728443576, Val_0.0146987435567/0.989223057644, best_0.989223057644
+2019-06-24 16:15:36,446 - 1_train.py[line:311]: 8: Train_0.00479470655776, Val_0.0132322526479/0.991979949875, best_0.991979949875
+2019-06-24 16:16:30,402 - 1_train.py[line:311]: 9: Train_0.00447360477362, Val_0.0132939112097/0.988721804511, best_0.991979949875
+2019-06-24 16:20:06,294 - 1_train.py[line:311]: 0: Train_0.466802466591, Val_0.033091865774/0.978127136022, best_0.978127136022
+2019-06-24 16:23:05,584 - 1_train.py[line:315]: 0: Train_0.467431068364, Val_0.0330308878696/0.98031442242, best_0.98031442242
+2019-06-24 16:23:59,423 - 1_train.py[line:315]: 1: Train_0.0251152016042, Val_0.0249677415643/0.972180451128, best_0.98031442242
+2019-06-24 16:24:53,388 - 1_train.py[line:315]: 2: Train_0.014585035081, Val_0.014046552109/0.986899065846, best_0.986899065846
+2019-06-24 16:25:47,475 - 1_train.py[line:315]: 3: Train_0.0142417100306, Val_0.0191690077017/0.980200501253, best_0.986899065846
+2019-06-24 16:26:41,515 - 1_train.py[line:315]: 4: Train_0.008879396186, Val_0.0148279769959/0.989086352244, best_0.989086352244
+2019-06-24 16:27:35,360 - 1_train.py[line:315]: 5: Train_0.00791994132531, Val_0.0194832157311/0.976691729323, best_0.989086352244
+2019-06-24 16:28:29,495 - 1_train.py[line:315]: 6: Train_0.00712297542894, Val_0.012641911158/0.989724310777, best_0.989724310777
+2019-06-24 16:29:23,205 - 1_train.py[line:315]: 7: Train_0.00590654403166, Val_0.011756064359/0.990977443609, best_0.990977443609
+2019-06-24 16:30:17,495 - 1_train.py[line:315]: 8: Train_0.00403045445448, Val_0.0122428020389/0.990726817043, best_0.990977443609
+2019-06-24 16:31:11,367 - 1_train.py[line:315]: 9: Train_0.00555543395884, Val_0.0130562963027/0.987468671679, best_0.990977443609
+2019-06-24 16:32:05,789 - 1_train.py[line:315]: 0: Train_0.46506065069, Val_0.0379318066856/0.964456596036, best_0.964456596036
+2019-06-24 16:32:59,871 - 1_train.py[line:315]: 1: Train_0.0268363693187, Val_0.0173517174839/0.984005468216, best_0.984005468216
+2019-06-24 16:33:53,960 - 1_train.py[line:315]: 2: Train_0.0147917148861, Val_0.0156118000547/0.97963089542, best_0.984005468216
+2019-06-24 16:34:48,095 - 1_train.py[line:315]: 3: Train_0.013048995282, Val_0.0125367366668/0.982957393484, best_0.984005468216
+2019-06-24 16:35:42,242 - 1_train.py[line:315]: 4: Train_0.00923808066164, Val_0.0116461846495/0.984894053315, best_0.984894053315
+2019-06-24 16:36:35,919 - 1_train.py[line:315]: 5: Train_0.00871808120447, Val_0.0119718333151/0.98045112782, best_0.984894053315
+2019-06-24 16:37:29,875 - 1_train.py[line:315]: 6: Train_0.00598262081161, Val_0.0105851366289/0.986215538847, best_0.986215538847
+2019-06-24 16:38:24,040 - 1_train.py[line:315]: 7: Train_0.00603152077661, Val_0.0120994284394/0.983709273183, best_0.986215538847
+2019-06-24 16:39:17,831 - 1_train.py[line:315]: 8: Train_0.00532829742287, Val_0.0105961214306/0.986078833447, best_0.986215538847
+2019-06-24 16:40:11,981 - 1_train.py[line:315]: 9: Train_0.00457407486219, Val_0.00998805785703/0.988152198679, best_0.988152198679
+2019-06-24 16:41:06,256 - 1_train.py[line:315]: 0: Train_0.450531263827, Val_0.0254023710364/0.983458646617, best_0.983458646617
+2019-06-24 16:42:00,179 - 1_train.py[line:315]: 1: Train_0.0247798235769, Val_0.0174567430983/0.980884028252, best_0.983458646617
+2019-06-24 16:42:54,566 - 1_train.py[line:315]: 2: Train_0.0160661081999, Val_0.0112765731265/0.98671679198, best_0.98671679198
+2019-06-24 16:43:49,241 - 1_train.py[line:315]: 3: Train_0.0124540204839, Val_0.0114786890703/0.981453634085, best_0.98671679198
+2019-06-24 16:44:43,317 - 1_train.py[line:315]: 4: Train_0.00936740016836, Val_0.012237249365/0.981066302119, best_0.98671679198
+2019-06-24 16:45:37,730 - 1_train.py[line:315]: 5: Train_0.00915444972804, Val_0.00810053888014/0.989223057644, best_0.989223057644
+2019-06-24 16:46:32,193 - 1_train.py[line:315]: 6: Train_0.00707381977535, Val_0.00855448169597/0.99015721121, best_0.99015721121
+2019-06-24 16:47:26,301 - 1_train.py[line:315]: 7: Train_0.00599054108561, Val_0.00714346955391/0.991478696742, best_0.991478696742
+2019-06-24 16:48:20,384 - 1_train.py[line:315]: 8: Train_0.00496681812923, Val_0.00875017864184/0.988972431078, best_0.991478696742
+2019-06-24 16:49:14,365 - 1_train.py[line:315]: 9: Train_0.00442216052574, Val_0.00777523351931/0.990407837776, best_0.991478696742
+2019-06-24 16:50:08,917 - 1_train.py[line:315]: 0: Train_0.466080225566, Val_0.0264588929386/0.977056277056, best_0.977056277056
+2019-06-24 16:51:02,890 - 1_train.py[line:315]: 1: Train_0.0273297008669, Val_0.0172279827346/0.974982911825, best_0.977056277056
+2019-06-24 16:51:57,028 - 1_train.py[line:315]: 2: Train_0.014550355309, Val_0.011383117005/0.985714285714, best_0.985714285714
+2019-06-24 16:52:51,303 - 1_train.py[line:315]: 3: Train_0.0137947117442, Val_0.0129714594631/0.976555023923, best_0.985714285714
+2019-06-24 16:53:45,457 - 1_train.py[line:315]: 4: Train_0.00969190767939, Val_0.0104554105109/0.981704260652, best_0.985714285714
+2019-06-24 16:54:39,327 - 1_train.py[line:315]: 5: Train_0.00882459313632, Val_0.00646251857101/0.990726817043, best_0.990726817043
+2019-06-24 16:55:33,357 - 1_train.py[line:315]: 6: Train_0.00647604403243, Val_0.00971291899444/0.985714285714, best_0.990726817043
+2019-06-24 16:56:27,315 - 1_train.py[line:315]: 7: Train_0.00681021584115, Val_0.00655219009506/0.991228070175, best_0.991228070175
+2019-06-24 16:57:21,239 - 1_train.py[line:315]: 8: Train_0.00501380542753, Val_0.00628337097199/0.989906584643, best_0.991228070175
+2019-06-24 16:58:15,356 - 1_train.py[line:315]: 9: Train_0.00551978908523, Val_0.00690527241105/0.987468671679, best_0.991228070175
+2019-06-24 16:59:09,592 - 1_train.py[line:315]: 0: Train_0.444835602615, Val_0.0309923136313/0.976372750057, best_0.976372750057
+2019-06-24 17:00:03,595 - 1_train.py[line:315]: 1: Train_0.0260299754294, Val_0.0150610914519/0.982889040784, best_0.982889040784
+2019-06-24 17:00:57,751 - 1_train.py[line:315]: 2: Train_0.0152542692922, Val_0.0202432233154/0.955365686945, best_0.982889040784
+2019-06-24 17:01:51,808 - 1_train.py[line:315]: 3: Train_0.0130168728353, Val_0.011384279749/0.980132148553, best_0.982889040784
+2019-06-24 17:02:45,763 - 1_train.py[line:315]: 4: Train_0.0102931054232, Val_0.00876592910489/0.985144679882, best_0.985144679882
+2019-06-24 17:03:39,887 - 1_train.py[line:315]: 5: Train_0.00716275777718, Val_0.00787187271278/0.987582592846, best_0.987582592846
+2019-06-24 17:04:33,775 - 1_train.py[line:315]: 6: Train_0.00642614347826, Val_0.00675840847595/0.99022556391, best_0.99022556391
+2019-06-24 17:05:27,781 - 1_train.py[line:315]: 7: Train_0.00708399903777, Val_0.00963743890864/0.982638414217, best_0.99022556391
+2019-06-24 17:06:21,857 - 1_train.py[line:315]: 8: Train_0.00553535573273, Val_0.00457646133452/0.992731829574, best_0.992731829574
+2019-06-24 17:07:15,778 - 1_train.py[line:315]: 9: Train_0.00447506190982, Val_0.00696627611066/0.988653451811, best_0.992731829574
+2019-06-24 17:08:10,296 - 1_train.py[line:315]: 0: Train_0.467404541203, Val_0.041956143421/0.972362724994, best_0.972362724994
+2019-06-24 17:09:04,403 - 1_train.py[line:315]: 1: Train_0.0250123284809, Val_0.0404275601174/0.963340168603, best_0.972362724994
+2019-06-24 17:09:58,536 - 1_train.py[line:315]: 2: Train_0.0142856252395, Val_0.0224525367947/0.988471177945, best_0.988471177945
+2019-06-24 17:10:52,705 - 1_train.py[line:315]: 3: Train_0.0128033401384, Val_0.0255021895119/0.984825700615, best_0.988471177945
+2019-06-24 17:11:46,876 - 1_train.py[line:315]: 4: Train_0.00891043559278, Val_0.0261305393038/0.981499202552, best_0.988471177945
+2019-06-24 17:12:40,881 - 1_train.py[line:315]: 5: Train_0.00853265851215, Val_0.0262600133122/0.982456140351, best_0.988471177945
+2019-06-24 17:13:34,779 - 1_train.py[line:315]: 6: Train_0.0068826488998, Val_0.0253843267697/0.985896559581, best_0.988471177945
+2019-06-24 17:14:29,074 - 1_train.py[line:315]: 7: Train_0.00640324747091, Val_0.0272305950384/0.978947368421, best_0.988471177945
+2019-06-24 17:15:22,973 - 1_train.py[line:315]: 8: Train_0.00456171588777, Val_0.0244129639243/0.984711779449, best_0.988471177945
+2019-06-24 17:16:16,955 - 1_train.py[line:315]: 9: Train_0.00389273858491, Val_0.0271987463368/0.981385281385, best_0.988471177945
+2019-06-24 17:17:12,252 - 1_train.py[line:315]: 0: Train_0.457256056372, Val_0.058749404262/0.946700083542, best_0.946700083542
+2019-06-24 17:18:06,466 - 1_train.py[line:315]: 1: Train_0.0238584210591, Val_0.0395580325929/0.963083635013, best_0.963083635013
+2019-06-24 17:19:00,533 - 1_train.py[line:315]: 2: Train_0.0136555207791, Val_0.0363687206256/0.975865589901, best_0.975865589901
+2019-06-24 17:19:54,613 - 1_train.py[line:315]: 3: Train_0.0126401870022, Val_0.0376165421565/0.969024412884, best_0.975865589901
+2019-06-24 17:20:48,918 - 1_train.py[line:315]: 4: Train_0.0100564638728, Val_0.0333806458093/0.976868096166, best_0.976868096166
+2019-06-24 17:21:42,801 - 1_train.py[line:315]: 5: Train_0.00789176663083, Val_0.0357323932919/0.976793836443, best_0.976868096166
+2019-06-24 17:22:36,773 - 1_train.py[line:315]: 6: Train_0.00663261176079, Val_0.0330751083236/0.978121228998, best_0.978121228998
+2019-06-24 17:23:30,775 - 1_train.py[line:315]: 7: Train_0.00696763354776, Val_0.0388295044142/0.971029425415, best_0.978121228998
+2019-06-24 17:24:25,075 - 1_train.py[line:315]: 8: Train_0.00383871483553, Val_0.0412983462509/0.977192982456, best_0.978121228998
+2019-06-24 17:25:19,205 - 1_train.py[line:315]: 9: Train_0.00398566599148, Val_0.0313243161419/0.985213032581, best_0.985213032581
+2019-06-24 17:26:13,625 - 1_train.py[line:315]: 0: Train_0.45993945249, Val_0.0347250718297/0.976122123491, best_0.976122123491
+2019-06-24 17:27:08,008 - 1_train.py[line:315]: 1: Train_0.0258567535955, Val_0.0297498095029/0.965459102301, best_0.976122123491
+2019-06-24 17:28:02,241 - 1_train.py[line:315]: 2: Train_0.0161733204061, Val_0.0116217788105/0.989974937343, best_0.989974937343
+2019-06-24 17:28:56,471 - 1_train.py[line:315]: 3: Train_0.0121192020524, Val_0.0148229081339/0.980952380952, best_0.989974937343
+2019-06-24 17:29:50,567 - 1_train.py[line:315]: 4: Train_0.0101843889526, Val_0.0092398494384/0.990476190476, best_0.990476190476
+2019-06-24 17:30:44,783 - 1_train.py[line:315]: 5: Train_0.00836380945558, Val_0.0119889189812/0.986466165414, best_0.990476190476
+2019-06-24 17:31:38,980 - 1_train.py[line:315]: 6: Train_0.00698758875224, Val_0.0103459984816/0.989473684211, best_0.990476190476
+2019-06-24 17:32:32,954 - 1_train.py[line:315]: 7: Train_0.00615668803398, Val_0.0111798427574/0.986147186147, best_0.990476190476
+2019-06-24 17:33:26,921 - 1_train.py[line:315]: 8: Train_0.00533246892808, Val_0.00908111856654/0.991979949875, best_0.991979949875
+2019-06-24 17:34:20,974 - 1_train.py[line:315]: 9: Train_0.00506612269502, Val_0.00841930760847/0.991979949875, best_0.991979949875
+2019-06-24 17:35:15,414 - 1_train.py[line:315]: 0: Train_0.476879985438, Val_0.0301499503354/0.978377762588, best_0.978377762588
+2019-06-24 17:36:09,545 - 1_train.py[line:315]: 1: Train_0.0257451404338, Val_0.0152972094192/0.987081339713, best_0.987081339713
+2019-06-24 17:37:03,675 - 1_train.py[line:315]: 2: Train_0.0162072999359, Val_0.00650431402845/0.992412850308, best_0.992412850308
+2019-06-24 17:37:57,800 - 1_train.py[line:315]: 3: Train_0.0123520687773, Val_0.0115382946505/0.981316928685, best_0.992412850308
+2019-06-24 17:38:51,699 - 1_train.py[line:315]: 4: Train_0.0089477616863, Val_0.00735194846914/0.988721804511, best_0.992412850308
+2019-06-24 17:39:45,595 - 1_train.py[line:315]: 5: Train_0.00856540154597, Val_0.00559277422195/0.992162223741, best_0.992412850308
+2019-06-24 17:40:39,596 - 1_train.py[line:315]: 6: Train_0.00714001716976, Val_0.00433864232394/0.994736842105, best_0.994736842105
+2019-06-24 17:41:33,648 - 1_train.py[line:315]: 7: Train_0.0062323516732, Val_0.00457723293016/0.994235588972, best_0.994736842105
+2019-06-24 17:42:27,842 - 1_train.py[line:315]: 8: Train_0.00424027355662, Val_0.00374533298779/0.994417862839, best_0.994736842105
+2019-06-24 17:43:22,279 - 1_train.py[line:315]: 9: Train_0.00515207738243, Val_0.00549374456954/0.993984962406, best_0.994736842105
+2019-06-24 17:44:16,836 - 1_train.py[line:315]: 0: Train_0.43577186166, Val_0.0315263014483/0.971428571429, best_0.971428571429
+2019-06-24 17:45:11,266 - 1_train.py[line:315]: 1: Train_0.0254618952509, Val_0.0217178573816/0.968272533185, best_0.971428571429
+2019-06-24 17:46:05,483 - 1_train.py[line:315]: 2: Train_0.0142186527605, Val_0.0174808099441/0.974185463659, best_0.974185463659
+2019-06-24 17:46:59,511 - 1_train.py[line:315]: 3: Train_0.0124122294521, Val_0.0175103567655/0.974863083635, best_0.974863083635
+2019-06-24 17:47:53,648 - 1_train.py[line:315]: 4: Train_0.00977192604388, Val_0.0138269284323/0.977870602432, best_0.977870602432
+2019-06-24 17:48:47,499 - 1_train.py[line:315]: 5: Train_0.00869665624673, Val_0.0155202863787/0.976868096166, best_0.977870602432
+2019-06-24 17:49:41,615 - 1_train.py[line:315]: 6: Train_0.00646629991429, Val_0.0143948635352/0.977044463009, best_0.977870602432
+2019-06-24 17:50:35,780 - 1_train.py[line:315]: 7: Train_0.00684810217484, Val_0.0134814440961/0.981203007519, best_0.981203007519
+2019-06-24 17:51:29,944 - 1_train.py[line:315]: 8: Train_0.00414184920462, Val_0.0115970040803/0.984711779449, best_0.984711779449
+2019-06-24 17:52:23,882 - 1_train.py[line:315]: 9: Train_0.00395509466114, Val_0.0118167637786/0.984386893159, best_0.984711779449
+2019-06-24 17:53:18,127 - 1_train.py[line:315]: 0: Train_0.467847433403, Val_0.0358212460813/0.971957671958, best_0.971957671958
+2019-06-24 17:54:12,156 - 1_train.py[line:315]: 1: Train_0.0259055320953, Val_0.0268752561686/0.967270026919, best_0.971957671958
+2019-06-24 17:55:06,194 - 1_train.py[line:315]: 2: Train_0.0144556728664, Val_0.023659523503/0.96970203286, best_0.971957671958
+2019-06-24 17:56:00,350 - 1_train.py[line:315]: 3: Train_0.0133230930547, Val_0.0208154110883/0.980553234939, best_0.980553234939
+2019-06-24 17:56:54,700 - 1_train.py[line:315]: 4: Train_0.00933873264978, Val_0.0166182627844/0.984711779449, best_0.984711779449
+2019-06-24 17:57:48,952 - 1_train.py[line:315]: 5: Train_0.00853323603372, Val_0.0258469078281/0.975540703611, best_0.984711779449
+2019-06-24 17:58:42,979 - 1_train.py[line:315]: 6: Train_0.0074568132887, Val_0.0180983400471/0.985964912281, best_0.985964912281
+2019-06-24 17:59:37,128 - 1_train.py[line:315]: 7: Train_0.00649193597757, Val_0.0186461900104/0.984637519725, best_0.985964912281
+2019-06-24 18:00:31,328 - 1_train.py[line:315]: 8: Train_0.00479859887009, Val_0.0179456223074/0.987719298246, best_0.987719298246
+2019-06-24 18:01:25,174 - 1_train.py[line:315]: 9: Train_0.00433880931266, Val_0.0204268469947/0.982483987747, best_0.987719298246
+2019-06-24 18:02:19,455 - 1_train.py[line:315]: 0: Train_0.446504670702, Val_0.0336605900604/0.971029425415, best_0.971029425415
+2019-06-24 18:03:13,436 - 1_train.py[line:315]: 1: Train_0.026049726901, Val_0.0205561518996/0.972134038801, best_0.972134038801
+2019-06-24 18:04:07,381 - 1_train.py[line:315]: 2: Train_0.0147716572368, Val_0.0126357929855/0.983133760327, best_0.983133760327
+2019-06-24 18:05:01,573 - 1_train.py[line:315]: 3: Train_0.0123842286249, Val_0.0103750133993/0.987143785389, best_0.987143785389
+2019-06-24 18:05:55,960 - 1_train.py[line:315]: 4: Train_0.00909318061022, Val_0.00907341860594/0.988146291655, best_0.988146291655
+2019-06-24 18:06:50,454 - 1_train.py[line:315]: 5: Train_0.00916505532395, Val_0.00950869656446/0.986893158823, best_0.988146291655
+2019-06-24 18:07:44,482 - 1_train.py[line:315]: 6: Train_0.00708685896135, Val_0.0127399353895/0.98012624153, best_0.988146291655
+2019-06-24 18:08:38,425 - 1_train.py[line:315]: 7: Train_0.00636708742815, Val_0.0129678046551/0.977443609023, best_0.988146291655
+2019-06-24 18:09:32,437 - 1_train.py[line:315]: 8: Train_0.00562346945024, Val_0.00764252670036/0.99022556391, best_0.99022556391
+2019-06-24 18:10:26,429 - 1_train.py[line:315]: 9: Train_0.00385955106406, Val_0.00721495845171/0.990726817043, best_0.990726817043
+2019-06-24 18:11:20,689 - 1_train.py[line:315]: 0: Train_0.438883225776, Val_0.0306360604601/0.970853058572, best_0.970853058572
+2019-06-24 18:12:14,735 - 1_train.py[line:315]: 1: Train_0.0263969598194, Val_0.0171090125417/0.975791330177, best_0.975791330177
+2019-06-24 18:13:08,944 - 1_train.py[line:315]: 2: Train_0.0154503722528, Val_0.0108448125079/0.981806367771, best_0.981806367771
+2019-06-24 18:14:03,169 - 1_train.py[line:315]: 3: Train_0.013139886907, Val_0.0112171431293/0.980952380952, best_0.981806367771
+2019-06-24 18:14:57,339 - 1_train.py[line:315]: 4: Train_0.00887361740153, Val_0.00612446286699/0.988396918221, best_0.988396918221
+2019-06-24 18:15:51,300 - 1_train.py[line:315]: 5: Train_0.00832940903187, Val_0.00915441873255/0.981880627495, best_0.988396918221
+2019-06-24 18:16:45,267 - 1_train.py[line:315]: 6: Train_0.00659619367134, Val_0.0084041191894/0.984210526316, best_0.988396918221
+2019-06-24 18:17:39,658 - 1_train.py[line:315]: 7: Train_0.00647328321486, Val_0.00827149670824/0.985389399424, best_0.988396918221
+2019-06-24 18:18:33,832 - 1_train.py[line:315]: 8: Train_0.00489245229957, Val_0.00512364408534/0.991228070175, best_0.991228070175
+2019-06-24 18:19:27,801 - 1_train.py[line:315]: 9: Train_0.00538638268551, Val_0.00922893880041/0.97969924812, best_0.991228070175
+2019-06-24 18:20:22,519 - 1_train.py[line:315]: 0: Train_0.440199311495, Val_0.0254375637068/0.97947646895, best_0.97947646895
+2019-06-24 18:21:16,558 - 1_train.py[line:315]: 1: Train_0.0260415606977, Val_0.0259486833228/0.959676970203, best_0.97947646895
+2019-06-24 18:22:10,872 - 1_train.py[line:315]: 2: Train_0.0144104585206, Val_0.0138322565737/0.979197994987, best_0.97947646895
+2019-06-24 18:23:05,287 - 1_train.py[line:315]: 3: Train_0.013765681341, Val_0.0124509592925/0.983458646617, best_0.983458646617
+2019-06-24 18:23:59,382 - 1_train.py[line:315]: 4: Train_0.00944673765306, Val_0.0197495925322/0.96684303351, best_0.983458646617
+2019-06-24 18:24:53,159 - 1_train.py[line:315]: 5: Train_0.00873470580861, Val_0.0104836614786/0.985964912281, best_0.985964912281
+2019-06-24 18:25:47,247 - 1_train.py[line:315]: 6: Train_0.00685861840517, Val_0.0101227898145/0.987394411956, best_0.987394411956
+2019-06-24 18:26:41,538 - 1_train.py[line:315]: 7: Train_0.0059956956135, Val_0.0116772334716/0.97980135524, best_0.987394411956
+2019-06-24 18:27:35,721 - 1_train.py[line:315]: 8: Train_0.00465379750165, Val_0.00935724533261/0.988146291655, best_0.988146291655
+2019-06-24 18:28:30,205 - 1_train.py[line:315]: 9: Train_0.0042919644265, Val_0.00837834984403/0.990476190476, best_0.990476190476
+2019-06-24 18:29:24,622 - 1_train.py[line:315]: 0: Train_0.46362896602, Val_0.0380206717211/0.975438596491, best_0.975438596491
+2019-06-24 18:30:18,724 - 1_train.py[line:315]: 1: Train_0.0251769619347, Val_0.0234185727967/0.971855564838, best_0.975438596491
+2019-06-24 18:31:12,811 - 1_train.py[line:315]: 2: Train_0.0150133226304, Val_0.0129439898138/0.982131254061, best_0.982131254061
+2019-06-24 18:32:06,880 - 1_train.py[line:315]: 3: Train_0.0121787417303, Val_0.0204956848174/0.968773786318, best_0.982131254061
+2019-06-24 18:33:00,962 - 1_train.py[line:315]: 4: Train_0.0098930757461, Val_0.0109902052474/0.987969924812, best_0.987969924812
+2019-06-24 18:33:54,665 - 1_train.py[line:315]: 5: Train_0.0081473372296, Val_0.0117406437557/0.983560753736, best_0.987969924812
+2019-06-24 18:34:49,147 - 1_train.py[line:315]: 6: Train_0.00736145646507, Val_0.00824567482382/0.99022556391, best_0.99022556391
+2019-06-24 18:35:43,408 - 1_train.py[line:315]: 7: Train_0.00590383306106, Val_0.010350672328/0.985640025991, best_0.99022556391
+2019-06-24 18:36:37,701 - 1_train.py[line:315]: 8: Train_0.00402870507747, Val_0.00821340322013/0.990476190476, best_0.990476190476
+2019-06-24 18:37:31,706 - 1_train.py[line:315]: 9: Train_0.00430376640773, Val_0.00836137058612/0.989974937343, best_0.990476190476
