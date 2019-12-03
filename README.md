@@ -6,6 +6,9 @@
 
 ## 数据竞赛平台
 
+最新的竞赛信息和baseline推送，请关注知乎公众号：**Coggle数据科学**
+
+
 - 国外竞赛平台：
 
   - [Kaggle](www.kaggle.com)
@@ -29,13 +32,23 @@
   - [图灵联邦](http://www.turingtopia.com/competitionnew)
   - [AI Studio](https://aistudio.baidu.com/aistudio/competition)
 
+
+- DataSciCamp竞赛列表：https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
+
+
 ## 竞赛分享
 
 - [CCF-2019-BDCI互联网金融新实体发现](https://www.datafountain.cn/competitions/361/)：Bert思路分享；
 
-## 贡献者
+## 贡献者(按照贡献时间排序)
 
 - [阿水](https://www.zhihu.com/people/finlayliu/)
+- [鱼遇雨欲语与余](https://www.zhihu.com/people/wang-he-13-93/)
+- [DOTA](https://www.zhihu.com/people/yuconan/)
+
+其他分享：
+
+- [Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 
 ## 协作规范
 
@@ -52,6 +65,7 @@
 
 4. 代码提供者应对代码版权和共享权负责；
 
+5. 如果发现Repo存在版权等相关问题，请邮件联系finlayliu@qq.com
     
 ## 关注我们
 
