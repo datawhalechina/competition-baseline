@@ -6,7 +6,7 @@
 
 ## 数据竞赛平台
 
-最新的竞赛信息和baseline推送，请关注知乎公众号：**Coggle数据科学**
+最新的竞赛信息和baseline推送，请关注我们的知乎公众号：**Coggle数据科学**
 
 
 - 国外竞赛平台：
@@ -31,24 +31,22 @@
   - [AI研习社](https://god.yanxishe.com/)
   - [图灵联邦](http://www.turingtopia.com/competitionnew)
   - [AI Studio](https://aistudio.baidu.com/aistudio/competition)
-
+  - [FlyAI](https://www.flyai.com/)
 
 - DataSciCamp竞赛列表：https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
 
 
 ## 竞赛分享
 
-- [CCF-2019-BDCI互联网金融新实体发现](https://www.datafountain.cn/competitions/361/)：Bert思路分享；
+每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
+
+其他链接：[Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 
 ## 贡献者(按照贡献时间排序)
 
 - [阿水](https://www.zhihu.com/people/finlayliu/)
 - [鱼遇雨欲语与余](https://www.zhihu.com/people/wang-he-13-93/)
 - [DOTA](https://www.zhihu.com/people/yuconan/)
-
-其他分享：
-
-- [Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 
 ## 协作规范
 
@@ -66,11 +64,10 @@
 4. 代码提供者应对代码版权和共享权负责；
 
 5. 如果发现Repo存在版权等相关问题，请邮件联系finlayliu@qq.com
-    
+  
 ## 关注我们
 
 <div align=center><img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "250" height = "270" alt="Datawhale，一个专注于AI领域的学习圈子。初衷是for the learner，和学习者一起成长。目前加入学习社群的人数已经数千人，组织了机器学习，深度学习，数据分析，数据挖掘，爬虫，编程，统计学，Mysql，数据竞赛等多个领域的内容学习，微信搜索公众号Datawhale可以加入我们。"></div>
-
 ## LICENSE
 
 [GNU General Public License v3.0](https://github.com/datawhalechina/competition-baseline/blob/master/LICENSE)
