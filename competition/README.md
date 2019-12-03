@@ -13,7 +13,7 @@
 - [CCF2019-互联网金融新实体发现](https://www.datafountain.cn/competitions/361)，NLP类型比赛
 - [CCF2019-技术需求与技术成果项目之间关联度计算模型](https://www.datafountain.cn/competitions/359)，NLP类型比赛
 - [CCF2019-互联网新闻情感分析](https://www.datafountain.cn/competitions/350)，NLP类型比赛
-- [Tianchi-第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/entrance/231668/introduction
+- [Tianchi-第三届阿里云安全算法挑战赛](https://tianchi.aliyun.com/competition/entrance/231668/introduction)，NLP类型比赛
 
 
 # 分享规范
