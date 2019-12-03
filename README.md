@@ -6,9 +6,7 @@
 
 ## 数据竞赛平台
 
-最新的竞赛信息和baseline推送，请关注我们的微信公众号：**Coggle数据科学**
-
-，以及我们的知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
+最新的竞赛信息和baseline推送，请关注我们的微信公众号：**Coggle数据科学**，知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
 
 
 - 国外竞赛平台：
