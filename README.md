@@ -47,6 +47,7 @@
 - [kaggle-two-sigma-connect-rental-listing-inquiries](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-two-sigma-connect-rental-listing-inquiries)，结构化数据比赛
 - [kaggle-allstate-claims-severity](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-allstate-claims-severity)，结构化数据比赛
 - [AI研习社-胸腔X光肺炎检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AI%E7%A0%94%E4%B9%A0%E7%A4%BE-%E8%83%B8%E8%85%94X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B)，CV类型比赛
+- [AI研习社-肺炎X光病灶识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AI%E7%A0%94%E4%B9%A0%E7%A4%BE-%E8%82%BA%E7%82%8EX%E5%85%89%E7%97%85%E7%81%B6%E8%AF%86%E5%88%AB)，CV类型比赛
 - [AI研习社-美食识别挑战（1）：豆腐VS土豆](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AI%E7%A0%94%E4%B9%A0%E7%A4%BE-%E7%BE%8E%E9%A3%9F%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%EF%BC%9A%E8%B1%86%E8%85%90VS%E5%9C%9F%E8%B1%86)，CV类型比赛
 - [CCF2019-视频版权检测算法](https://github.com/datawhalechina/competition-baseline/tree/master/competition/CCF2019-%E8%A7%86%E9%A2%91%E7%89%88%E6%9D%83%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95)，CV类型比赛
 - [kaggle-quickdraw-doodle-recognition](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-quickdraw-doodle-recognition)，CV类型比赛
