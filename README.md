@@ -58,7 +58,10 @@
 - [CCF2019-互联网新闻情感分析](https://github.com/datawhalechina/competition-baseline/tree/master/competition/CCF2019-%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E9%97%BB%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 
-其他链接：[Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+其他链接：
+
+- [Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+- [chizhi开源的高校赛2019 文本点击预测](https://github.com/chizhu/BDC2019)
 
 ## 贡献者(按照贡献ID排序)
 
