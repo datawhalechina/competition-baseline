@@ -7,3 +7,5 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 python3 1_train.py
 python3 2_predict.py
 ```
+
+人脸年龄识别练习赛冠军源码_1575964312087.zip为比赛前三名的代码；
