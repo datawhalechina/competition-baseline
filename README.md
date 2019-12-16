@@ -11,23 +11,23 @@
 
 - 国外竞赛平台：
 
-  - [Kaggle](www.kaggle.com)
-  - [DrivenData](www.drivendata.org)
-  - [Colalab](competitions.codalab.org)
-  - [CrowdAI](www.crowdai.org)
+  - [Kaggle](http://www.kaggle.com)
+  - [DrivenData](http://www.drivendata.org)
+  - [Colalab](http://competitions.codalab.org)
+  - [CrowdAI](http://www.crowdai.org)
   - [Kelvins](https://kelvins.esa.int/)
   - [Signate](https://signate.jp/)
   - [analyticsvidhya](https://datahack.analyticsvidhya.com/)
 
 - 国内竞赛平台
 
-  - [天池](tianchi.aliyun.com)
-  - [点石](dianshi.baidu.com/competition)
-  - [JData](jdata.jd.com)
-  - [DataCastle](www.pkbigdata.com)
-  - [DataFountain](www.datafountain.cn)
-  - [Biendata](biendata.com)
-  - [科赛](www.kesci.com)
+  - [天池](http://tianchi.aliyun.com)
+  - [点石](http://dianshi.baidu.com/competition)
+  - [JData](http://jdata.jd.com)
+  - [DataCastle](http://www.pkbigdata.com)
+  - [DataFountain](http://www.datafountain.cn)
+  - [Biendata](http://biendata.com)
+  - [科赛](http://www.kesci.com)
   - [AI研习社](https://god.yanxishe.com/)
   - [图灵联邦](http://www.turingtopia.com/competitionnew)
   - [AI Studio](https://aistudio.baidu.com/aistudio/competition)
