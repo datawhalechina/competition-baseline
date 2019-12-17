@@ -45,7 +45,7 @@
 
 ### 结构化比赛
 
-- [天池-安泰杯跨境电商智能算法大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E5%AE%89%E6%B3%B0%E6%9D%AF%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B)
+- [天池-安泰杯跨境电商智能算法大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E5%AE%89%E6%B3%B0%E6%9D%AF%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B)，结构化数据比赛，**冠军法国南部**分享
 - [点石-Retention Rate of Baidu Hao Kan APP Users](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%82%B9%E7%9F%B3-Retention%20Rate%20of%20Baidu%20Hao%20Kan%20APP%20Users)，结构化数据比赛
 - [kaggle-two-sigma-connect-rental-listing-inquiries](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-two-sigma-connect-rental-listing-inquiries)，结构化数据比赛
 - [kaggle-allstate-claims-severity](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-allstate-claims-severity)，结构化数据比赛
