@@ -61,6 +61,7 @@
 - [AI研习社-肺炎X光病灶识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E8%82%BA%E7%82%8EX%E5%85%89%E7%97%85%E7%81%B6%E8%AF%86%E5%88%AB)，CV类型比赛
 - [AI研习社-人脸年龄识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E4%BA%BA%E8%84%B8%E5%B9%B4%E9%BE%84%E8%AF%86%E5%88%AB)，CV类型比赛
 - [AI研习社-美食识别挑战（1）：豆腐VS土豆](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E7%BE%8E%E9%A3%9F%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%EF%BC%9A%E8%B1%86%E8%85%90VS%E5%9C%9F%E8%B1%86)，CV类型比赛
+- [AI研习社-猫脸关键点检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E5%96%B5%E8%84%B8%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B)，CV类型比赛
 
 ### NLP类型比赛
 
