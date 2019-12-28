@@ -80,6 +80,7 @@
 ### 其他类型
 
 - [DataFountain-三角形图计算算法设计及性能优化](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%B8%89%E8%A7%92%E5%BD%A2%E5%9B%BE%E8%AE%A1%E7%AE%97%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96), 计算优化
+- [DataFountain-云计算时代的大数据查询分析优化](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BA%91%E8%AE%A1%E7%AE%97%E6%97%B6%E4%BB%A3%E7%9A%84%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E5%88%86%E6%9E%90%E4%BC%98%E5%8C%96), 查询优化
 
 其他链接：
 
