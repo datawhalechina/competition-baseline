@@ -77,6 +77,10 @@
 - [biendata-智源&计算所-互联网虚假新闻检测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/biendata-%E6%99%BA%E6%BA%90%26%E8%AE%A1%E7%AE%97%E6%89%80-%E4%BA%92%E8%81%94%E7%BD%91%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB%E6%A3%80%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 
+### 其他类型
+
+- [DataFountain-三角形图计算算法设计及性能优化](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%B8%89%E8%A7%92%E5%BD%A2%E5%9B%BE%E8%AE%A1%E7%AE%97%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96), 计算优化
+
 其他链接：
 
 - [Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
