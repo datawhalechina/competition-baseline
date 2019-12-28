@@ -4,4 +4,6 @@ baseline思路：pair 分类问题的bert baseline
 
 https://www.datafountain.cn/competitions/359
 
+第一名：https://github.com/Makaixin/Correlation-between-requirements-and-achievements
+
 第二名：https://github.com/rebornZH/2019-CCF-BDCI-NLP
