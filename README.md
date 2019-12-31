@@ -70,7 +70,7 @@
 
 ### NLP类型比赛
 
-- [AI研习社-IMDB评论剧透检测](/yanxishe-IMDB%e8%af%84%e8%ae%ba%e5%89%a7%e9%80%8f%e6%a3%80%e6%b5%8b)，NLP类型比赛
+- [AI研习社-IMDB评论剧透检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-IMDB%E8%AF%84%E8%AE%BA%E5%89%A7%E9%80%8F%E6%A3%80%E6%B5%8B)，NLP类型比赛
 - [DataFountain-金融信息负面及主体判定](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E9%87%91%E8%9E%8D%E4%BF%A1%E6%81%AF%E8%B4%9F%E9%9D%A2%E5%8F%8A%E4%B8%BB%E4%BD%93%E5%88%A4%E5%AE%9A), NLP类型比赛
 - [DataFountain-互联网金融新实体发现](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BA%92%E8%81%94%E7%BD%91%E9%87%91%E8%9E%8D%E6%96%B0%E5%AE%9E%E4%BD%93%E5%8F%91%E7%8E%B0)，NLP类型比赛
 - [DataFountain-技术需求与技术成果项目之间关联度计算模型](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E6%8A%80%E6%9C%AF%E9%9C%80%E6%B1%82%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%88%90%E6%9E%9C%E9%A1%B9%E7%9B%AE%E4%B9%8B%E9%97%B4%E5%85%B3%E8%81%94%E5%BA%A6%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%9E%8B)，NLP类型比赛
