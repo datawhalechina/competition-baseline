@@ -44,6 +44,7 @@
 
 ### 结构化比赛
 
+- [天池-2020数字中国创新大赛—算法赛：智慧海洋建设](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-2020%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E2%80%94%E7%AE%97%E6%B3%95%E8%B5%9B%EF%BC%9A%E6%99%BA%E6%85%A7%E6%B5%B7%E6%B4%8B%E5%BB%BA%E8%AE%BE), 结构化数据比赛
 - [DataFountain-乘用车细分市场销量预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%B9%98%E7%94%A8%E8%BD%A6%E7%BB%86%E5%88%86%E5%B8%82%E5%9C%BA%E9%94%80%E9%87%8F%E9%A2%84%E6%B5%8B), 结构化
 数据比赛
 - [DataFountain-离散制造过程中典型工件的质量符合率预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E7%A6%BB%E6%95%A3%E5%88%B6%E9%80%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E5%85%B8%E5%9E%8B%E5%B7%A5%E4%BB%B6%E7%9A%84%E8%B4%A8%E9%87%8F%E7%AC%A6%E5%90%88%E7%8E%87%E9%A2%84%E6%B5%8B), 结构化数据比赛
