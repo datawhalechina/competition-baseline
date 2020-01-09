@@ -59,6 +59,7 @@
 
 ### CV类型比赛
 
+- [Kesci-中国华录杯人群密度检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Kesci-%E4%B8%AD%E5%9B%BD%E5%8D%8E%E5%BD%95%E6%9D%AF%E4%BA%BA%E7%BE%A4%E5%AF%86%E5%BA%A6%E6%A3%80%E6%B5%8B), CV类型比赛
 - [天池-心电人机智能大赛心电异常事件预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E5%BF%83%E7%94%B5%E4%BA%BA%E6%9C%BA%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E5%BF%83%E7%94%B5%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B6%E9%A2%84%E6%B5%8B), CV类型比赛
 - [DataFountain-多人种人脸识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E5%A4%9A%E4%BA%BA%E7%A7%8D%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB), CV类型比赛
 - [DataFountain-基于OCR的身份证要素提取](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E5%9F%BA%E4%BA%8EOCR%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A6%81%E7%B4%A0%E6%8F%90%E5%8F%96), CV类型比赛
