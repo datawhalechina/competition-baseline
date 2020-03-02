@@ -1,3 +1,5 @@
+比赛链接：https://god.yanxishe.com/10
+
 使用IMDB-WIKI数据集进行pretrain，再到比赛数据集finetune；
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
