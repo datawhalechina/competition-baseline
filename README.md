@@ -4,35 +4,9 @@
 
 你可能会问为什么是baseline，而不是获胜者的代码分享？相比于获胜者的代码baseline代码都比较简单，容易整理和学习；其次baseline代码更加实用和简洁，适合入门学习。
 
-## 数据竞赛平台
+## 数据竞赛
 
-国内外常见的数据竞赛平台：
-
-- 国外竞赛平台：
-
-  - [Kaggle](http://www.kaggle.com)
-  - [DrivenData](http://www.drivendata.org)
-  - [Colalab](http://competitions.codalab.org)
-  - [CrowdAI](http://www.crowdai.org)
-  - [Kelvins](https://kelvins.esa.int/)
-  - [Signate](https://signate.jp/)
-  - [analyticsvidhya](https://datahack.analyticsvidhya.com/)
-
-- 国内竞赛平台
-
-  - [天池](http://tianchi.aliyun.com)
-  - [点石](http://dianshi.baidu.com/competition)
-  - [JData](http://jdata.jd.com)
-  - [DataCastle](http://www.pkbigdata.com)
-  - [DataFountain](http://www.datafountain.cn)
-  - [Biendata](http://biendata.com)
-  - [科赛](http://www.kesci.com)
-  - [AI研习社](https://god.yanxishe.com/)
-  - [图灵联邦](http://www.turingtopia.com/competitionnew)
-  - [AI Studio](https://aistudio.baidu.com/aistudio/competition)
-  - [FlyAI](https://www.flyai.com/)
-
-- DataSciCamp竞赛列表：https://www.datascicamp.com/?sub=DM,CV,NLP,RL,SP
+竞赛日历：http://coggle.club/
 
 最新的竞赛信息和baseline推送，请关注：
 - 竞赛公众号：[**Coggle数据科学**](https://t.zsxq.com/Eyn6EQr)
@@ -83,6 +57,10 @@
 - [DataFountain-互联网新闻情感分析](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E9%97%BB%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90)，NLP类型比赛
 - [biendata-智源&计算所-互联网虚假新闻检测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/biendata-%E6%99%BA%E6%BA%90%26%E8%AE%A1%E7%AE%97%E6%89%80-%E4%BA%92%E8%81%94%E7%BD%91%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB%E6%A3%80%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
+
+### 科大讯飞AI开发者大赛（2020年度）
+
+- [脑PET图像分析和疾病预测挑战赛算法挑战大赛](), CV类型比赛
 
 ### 其他类型
 
