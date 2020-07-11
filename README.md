@@ -16,6 +16,11 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+### ![科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
+
+- [脑PET图像分析和疾病预测挑战赛算法挑战大赛](), CV类型比赛
+- [温室温度预测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E6%B8%A9%E5%AE%A4%E6%B8%A9%E5%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B), 结构化数据比赛
+
 ### 结构化比赛
 
 - [天池-零基础入门数据挖掘 - 二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/introduction), [baseline链接](https://github.com/yangjiada/used_cars)
@@ -57,11 +62,6 @@
 - [DataFountain-互联网新闻情感分析](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E9%97%BB%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90)，NLP类型比赛
 - [biendata-智源&计算所-互联网虚假新闻检测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/biendata-%E6%99%BA%E6%BA%90%26%E8%AE%A1%E7%AE%97%E6%89%80-%E4%BA%92%E8%81%94%E7%BD%91%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB%E6%A3%80%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
-
-### [科大讯飞AI开发者大赛（2020年度）](xfyun2020)
-
-- [脑PET图像分析和疾病预测挑战赛算法挑战大赛](), CV类型比赛
-- [温室温度预测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E6%B8%A9%E5%AE%A4%E6%B8%A9%E5%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B), 结构化数据比赛
 
 ### 其他类型
 
