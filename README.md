@@ -16,7 +16,7 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
-### ![科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
+### [科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
 
 - [脑PET图像分析和疾病预测挑战赛算法挑战大赛](), CV类型比赛
 - [温室温度预测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E6%B8%A9%E5%AE%A4%E6%B8%A9%E5%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B), 结构化数据比赛
