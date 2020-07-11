@@ -18,7 +18,7 @@
 
 ### [科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
 
-- [脑PET图像分析和疾病预测挑战赛算法挑战大赛](), CV类型比赛
+- [脑PET图像分析和疾病预测挑战赛算法挑战大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E8%84%91PET%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%92%8C%E7%96%BE%E7%97%85%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E5%A4%A7%E8%B5%9B), CV类型比赛
 - [温室温度预测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E6%B8%A9%E5%AE%A4%E6%B8%A9%E5%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B), 结构化数据比赛
 
 ### 结构化比赛
