@@ -19,8 +19,8 @@
 ### [2020数字中国创新大赛大数据赛道](https://data.xm.gov.cn/opendata-competition/index.html#/)
 - 入门注册手册：https://mp.weixin.qq.com/s/NurvUDyGwVC4sSwzEzDrwg
 - 高德地图城市交通健康榜：https://report.amap.com/diagnosis/index.do
-- 0829直播：[录屏](https://appr3on8hvy6025.h5.xiaoeknow.com/v1/course/alive/l_5f43a21ce4b0118787330974?type=2&app_id=appr3On8HVy6025&share_user_id=u_5f461056bc14f_OfwDYpvCS4&share_type=100&scene=%E5%88%86%E4%BA%AB&is_redirect=1&entry=2&entry_type=2001), [PPT](http://cdn.coggle.club/2020DCIC0829.pdf)
-- 赛题数据分析：[链接](https://github.com/datawhalechina/competition-baseline/tree/master/competition/2020DCIC-%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%B5%9B%E9%81%93), [录屏](https://www.bilibili.com/video/BV1tz4y1f7Wg/)
+- 赛题1数据分析：[链接](https://github.com/datawhalechina/competition-baseline/tree/master/competition/2020DCIC-%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%B5%9B%E9%81%93)
+- 赛题2学习内容：[链接](https://coggle.club/learn/DCIC2020/), [录屏](https://www.bilibili.com/video/BV1tz4y1f7Wg/)
 
 ### [科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
 
