@@ -16,6 +16,9 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+### [第四届工业大数据创新竞赛——算法赛道](http://www.industrial-bigdata.com/Challenge/title?competitionId=GKLEW707XP2O58KZNLO4UPYKCOIEQONH)
+- 学习手册：https://coggle.club/learn/industrial-bigdata-4th/
+
 ### [2020数字中国创新大赛大数据赛道](https://data.xm.gov.cn/opendata-competition/index.html#/)
 - 入门注册手册：https://mp.weixin.qq.com/s/NurvUDyGwVC4sSwzEzDrwg
 - 高德地图城市交通健康榜：https://report.amap.com/diagnosis/index.do
