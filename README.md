@@ -12,6 +12,10 @@
 - 竞赛公众号：[**Coggle数据科学**](https://t.zsxq.com/Eyn6EQr)
 - 知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
 
+## 竞赛讨论群
+
+<div align=center><img src="https://cdn.coggle.club/wechat-group-qrcode.jpg" width = "250" height = "350"></div>
+
 ## 竞赛分享
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
