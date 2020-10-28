@@ -17,6 +17,7 @@
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
 ## [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
+- 遥感影像地块分割, [U-Net](https://aistudio.baidu.com/aistudio/projectdetail/1090790)
 - 房产行业聊天问答匹配, [Bert](https://github.com/syzong/2020_ccf_qa_match), [RoBERTa](https://github.com/LogicJake/competition_baselines/tree/master/competitions/property_chat_pair)
 - 小学数学应用题自动解题, [规则思路](https://discussion.datafountain.cn/questions/3169?new=0)
 - 路况状态时空预测, [OTTO Lab](https://github.com/juzstu/ccf2020_didi)
