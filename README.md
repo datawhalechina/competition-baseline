@@ -20,6 +20,14 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+## [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
+- 房产行业聊天问答匹配, [Bert](https://github.com/syzong/2020_ccf_qa_match), [RoBERTa](https://github.com/LogicJake/competition_baselines/tree/master/competitions/property_chat_pair)
+- 小学数学应用题自动解题, [规则思路](https://discussion.datafountain.cn/questions/3169?new=0)
+- 路况状态时空预测, [OTTO Lab](https://github.com/juzstu/ccf2020_didi)
+- 企业非法集资风险预测, [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/fund_raising_risk_prediction)
+- 大数据时代的Serverless工作负载预测, [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/serverless_load_prediction)
+- 重点区域人群密度预测, [第1名方案](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction)
+
 ### [第四届工业大数据创新竞赛——算法赛道](http://www.industrial-bigdata.com/Challenge/title?competitionId=GKLEW707XP2O58KZNLO4UPYKCOIEQONH)
 - 学习手册：https://coggle.club/learn/industrial-bigdata-4th/
 - [注塑成型工艺的虚拟量测和调机优化](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%B7%A5%E4%B8%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%9B%E6%96%B0%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E8%B5%9B%E9%81%93/%E6%B3%A8%E5%A1%91%E6%88%90%E5%9E%8B%E8%B5%9B%E9%81%93baseline.ipynb)
