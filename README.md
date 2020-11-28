@@ -22,7 +22,7 @@
 - 房产行业聊天问答匹配, [Bert](https://github.com/syzong/2020_ccf_qa_match), [RoBERTa](https://github.com/LogicJake/competition_baselines/tree/master/competitions/property_chat_pair)
 - 小学数学应用题自动解题, [规则思路](https://discussion.datafountain.cn/questions/3169?new=0)
 - 路况状态时空预测, [OTTO Lab](https://github.com/juzstu/ccf2020_didi), [异度侵入](https://mp.weixin.qq.com/s/1vJDOInUOdBgXtLdVcpsEA)
-- 企业非法集资风险预测, [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/fund_raising_risk_prediction), [DLLXW](https://github.com/DLLXW/data-science-competition/tree/main/datafountain)
+- 企业非法集资风险预测, [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/fund_raising_risk_prediction), [DLLXW](https://github.com/DLLXW/data-science-competition/tree/main/datafountain), [阿水](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BC%81%E4%B8%9A%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8B)
 - 大数据时代的Serverless工作负载预测, [第一次打比赛（A榜0.208）](https://github.com/LogicJake/competition_baselines/tree/master/competitions/serverless_load_prediction), [siguo（A榜0.211）](https://blog.csdn.net/qq_48081601/article/details/109338443), [CNN-LSTM](https://zhuanlan.zhihu.com/p/301092469),[鱼佬(0.285)](https://mp.weixin.qq.com/s/Ovb1pic2nleQhTObIaj2Ww), [siliconx(0.311)](https://github.com/siliconx/serverless)
 - 重点区域人群密度预测, [第1名方案](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction)
 
