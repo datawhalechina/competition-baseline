@@ -45,7 +45,7 @@
 
 ### 结构化比赛
 
-- [2020厦门国际银行数创金融杯建模大赛](https://www.dcjingsai.com/v2/cmptDetail.html?id=439&=76f6724e6fa9455a9b5ef44402c08653), [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/xiamen_international_bank_2020), [OTTO Lab](https://github.com/cXPromise/Datacasle_2020XM_Baseline)
+- [2020厦门国际银行数创金融杯建模大赛](https://www.dcjingsai.com/v2/cmptDetail.html?id=439&=76f6724e6fa9455a9b5ef44402c08653), [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/xiamen_international_bank_2020), [OTTO Lab](https://github.com/cXPromise/Datacasle_2020XM_Baseline), [0.46](https://github.com/BirderEric/XianmenBank)
 - [2019厦门国际银行“数创金融杯”数据建模大赛](https://m.dcjingsai.com/cmptDetail.html?id=319), [yanqiangmiffy](https://github.com/yanqiangmiffy/Data-Finance-Cup), [shenxiangzhuang](https://github.com/shenxiangzhuang/Bank-Competition)
 - [天池-零基础入门数据挖掘 - 二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/introduction), [baseline链接](https://github.com/yangjiada/used_cars)
 - [天池-2020数字中国创新大赛—算法赛：智慧海洋建设](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-2020%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E2%80%94%E7%AE%97%E6%B3%95%E8%B5%9B%EF%BC%9A%E6%99%BA%E6%85%A7%E6%B5%B7%E6%B4%8B%E5%BB%BA%E8%AE%BE), 结构化数据比赛
