@@ -44,7 +44,9 @@
 - [事件抽取挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96%E6%8C%91%E6%88%98), NLP类型比赛
 
 ### 结构化比赛
-
+- [山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/shandong_shuiguan/code)
+- [山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=22), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/%E5%B1%B1%E4%B8%9C%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97)
+- [山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=26), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/shandong_gongjijin/code)
 - [2020厦门国际银行数创金融杯建模大赛](https://www.dcjingsai.com/v2/cmptDetail.html?id=439&=76f6724e6fa9455a9b5ef44402c08653), [第一次打比赛](https://github.com/LogicJake/competition_baselines/tree/master/competitions/xiamen_international_bank_2020), [OTTO Lab](https://github.com/cXPromise/Datacasle_2020XM_Baseline), [0.46](https://github.com/BirderEric/XianmenBank)
 - [2019厦门国际银行“数创金融杯”数据建模大赛](https://m.dcjingsai.com/cmptDetail.html?id=319), [yanqiangmiffy](https://github.com/yanqiangmiffy/Data-Finance-Cup), [shenxiangzhuang](https://github.com/shenxiangzhuang/Bank-Competition)
 - [天池-零基础入门数据挖掘 - 二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/introduction), [baseline链接](https://github.com/yangjiada/used_cars)
