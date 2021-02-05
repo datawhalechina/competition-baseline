@@ -64,7 +64,7 @@
 - [AI研习社-肌肉活动电信号推测手势](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E8%82%8C%E8%82%89%E6%B4%BB%E5%8A%A8%E7%94%B5%E4%BF%A1%E5%8F%B7%E6%8E%A8%E6%B5%8B%E6%89%8B%E5%8A%BF)，结构化数据比赛
 
 ### CV类型比赛
-
+- [2021全国数字生态创新大赛-智能算法赛](https://tianchi.aliyun.com/competition/entrance/531860/introduction), 语义分割比赛, [34.5-Unet](https://tianchi.aliyun.com/notebook-ai/detail?postId=169396), [38.5-Unet++](https://github.com/DLLXW/data-science-competition/tree/main/%E5%A4%A9%E6%B1%A0/2021%E5%85%A8%E5%9B%BD%E6%95%B0%E5%AD%97%E7%94%9F%E6%80%81%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%88%86%E5%89%B2)
 - [DC竞赛-AI助疫·口罩佩戴检测大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DC%E7%AB%9E%E8%B5%9B-AI%E5%8A%A9%E7%96%AB%C2%B7%E5%8F%A3%E7%BD%A9%E4%BD%A9%E6%88%B4%E6%A3%80%E6%B5%8B%E5%A4%A7%E8%B5%9B), CV类型比赛
 - [Kesci-中国华录杯人群密度检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Kesci-%E4%B8%AD%E5%9B%BD%E5%8D%8E%E5%BD%95%E6%9D%AF%E4%BA%BA%E7%BE%A4%E5%AF%86%E5%BA%A6%E6%A3%80%E6%B5%8B), CV类型比赛
 - [天池-心电人机智能大赛心电异常事件预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E5%BF%83%E7%94%B5%E4%BA%BA%E6%9C%BA%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E5%BF%83%E7%94%B5%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B6%E9%A2%84%E6%B5%8B), CV类型比赛
