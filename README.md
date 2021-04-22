@@ -16,6 +16,9 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+## [2021世界人工智能创新大赛](http://ailab.aiwin.org.cn/)
+- [互联网舆情企业风险事件的识别和预警](), NLP类型比赛
+
 ## [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
 - 通用音频分类, [LGB](https://github.com/zjuzpw/baseline/blob/CCF2020BDCI/baseline_lgb.ipynb), [CNN, 0.9+](https://blog.csdn.net/wherewegogo/article/details/110369729)
 - 遥感影像地块分割, [U-Net](https://aistudio.baidu.com/aistudio/projectdetail/1090790)
