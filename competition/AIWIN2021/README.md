@@ -12,6 +12,8 @@
 
 比赛地址：http://ailab.aiwin.org.cn/competitions/49
 
+训练集OCR识别结果：https://mirror.coggle.club/aiwin-2021/ocr_result.zip
+
 ## 赛题3-文化传媒数字资产的自动编目秘境攻略
 
 基于计算机视觉、NLP和语音识别等多模态技术，以新闻视频为类型，通过AI算法自动将完整新闻节目进行时序解构、添加语义标签、并进行内容归类。
