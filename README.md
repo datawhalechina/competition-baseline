@@ -16,9 +16,39 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+## [腾讯广告算法大赛](https://algo.qq.com/)
+
+### 2021年度腾讯赛
+
+本届从广告应用场景痛点出发，开设“视频广告秒级语义解析”和“多模态视频广告标签”两大赛道，兼具算法挑战性和商业应用价值。
+
+- [TI-ONE 产品使用教程](https://cloud.tencent.com/developer/article/1807916)
+- [如何使用 Notebook 功能完成赛事训练](https://cloud.tencent.com/developer/article/1807942?from=10680)
+- [腾讯广告算法大赛参赛手册](https://algo-1256087447.cos.ap-nanjing.myqcloud.com/admin/20210430/cf48d04caf878b9d2773fda0e60ba8a8.pdf)
+- [腾讯广告算法大赛FAQ](
+https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
+
+
+### 2020年度腾讯赛
+
+本届以用户在广告系统中的交互行为作为输入来预测用户的人口统计学属性。
+
+- [冠军分享](https://mp.weixin.qq.com/s/-lizDyP2y357plcG1M64TA)，[开源代码](https://github.com/guoday/Tencent2020_Rank1st
+)
+- [亚军分享](https://mp.weixin.qq.com/s/UWt4hZitX9bW1Y_RNyCJCg)
+- [季军分享](https://mp.weixin.qq.com/s/rkhwLsCKTIDzUkjVIEj3LQ)
+- [第5名分享](https://zhuanlan.zhihu.com/p/170603281)，[开源代码](https://github.com/zhangqibot/Tencent2020_Top5)
+- 第11名：[开源代码1](https://github.com/wujiekd/2020-Tencent-advertising-algorithm-contest-rank11), [开源代码2](https://github.com/llllllyu/Tencent2020_Rank11)
+- 第12名：[开源代码](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
+- 第19名：[开源代码](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
+
+---
+
 ### [2021世界人工智能创新大赛](http://ailab.aiwin.org.cn/)
 - [互联网舆情企业风险事件的识别和预警](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), NLP类型比赛
 - [保险文本视觉认知问答竞赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), CV/NLP，多模态类型比赛
+
+---
 
 ### [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
 - 通用音频分类, [LGB](https://github.com/zjuzpw/baseline/blob/CCF2020BDCI/baseline_lgb.ipynb), [CNN, 0.9+](https://blog.csdn.net/wherewegogo/article/details/110369729)
@@ -30,9 +60,13 @@
 - 大数据时代的Serverless工作负载预测, [第一次打比赛（A榜0.208）](https://github.com/LogicJake/competition_baselines/tree/master/competitions/serverless_load_prediction), [siguo（A榜0.211）](https://blog.csdn.net/qq_48081601/article/details/109338443), [CNN-LSTM](https://zhuanlan.zhihu.com/p/301092469),[鱼佬(0.285)](https://mp.weixin.qq.com/s/Ovb1pic2nleQhTObIaj2Ww), [siliconx(0.311)](https://github.com/siliconx/serverless)
 - 重点区域人群密度预测, [第1名方案](https://github.com/agave233/2020-CCF-Crowd-Flow-Prediction)
 
+---
+
 ### [第四届工业大数据创新竞赛——算法赛道](http://www.industrial-bigdata.com/Challenge/title?competitionId=GKLEW707XP2O58KZNLO4UPYKCOIEQONH)
 - 学习手册：https://coggle.club/learn/industrial-bigdata-4th/
 - [注塑成型工艺的虚拟量测和调机优化](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%B7%A5%E4%B8%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%9B%E6%96%B0%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E8%B5%9B%E9%81%93/%E6%B3%A8%E5%A1%91%E6%88%90%E5%9E%8B%E8%B5%9B%E9%81%93baseline.ipynb)
+
+---
 
 ### [2020数字中国创新大赛大数据赛道](https://data.xm.gov.cn/opendata-competition/index.html#/)
 - 入门注册手册：https://mp.weixin.qq.com/s/NurvUDyGwVC4sSwzEzDrwg
@@ -40,12 +74,16 @@
 - 赛题1数据分析：[链接](https://github.com/datawhalechina/competition-baseline/tree/master/competition/2020DCIC-%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%B5%9B%E9%81%93)
 - 赛题2学习内容：[链接](https://coggle.club/learn/DCIC2020/), [录屏](https://www.bilibili.com/video/BV1tz4y1f7Wg/)
 
+---
+
 ### [科大讯飞AI开发者大赛（2020年度）](http://challenge.xfyun.cn/)
 
 - [脑PET图像分析和疾病预测挑战赛算法挑战大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E8%84%91PET%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%92%8C%E7%96%BE%E7%97%85%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E5%A4%A7%E8%B5%9B), CV类型比赛
 - [温室温度预测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E6%B8%A9%E5%AE%A4%E6%B8%A9%E5%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B), 结构化数据比赛
 - [婴儿啼哭声识别挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E5%A9%B4%E5%84%BF%E5%95%BC%E5%93%AD%E5%A3%B0%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B), 语音赛题比赛
 - [事件抽取挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96%E6%8C%91%E6%88%98), NLP类型比赛
+
+---
 
 ### 结构化比赛
 - [山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/shandong_shuiguan/code)
@@ -67,6 +105,8 @@
 - [AI研习社-白葡萄酒品质预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E7%99%BD%E8%91%A1%E8%90%84%E9%85%92%E5%93%81%E8%B4%A8%E9%A2%84%E6%B5%8B)，结构化数据比赛
 - [AI研习社-肌肉活动电信号推测手势](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E8%82%8C%E8%82%89%E6%B4%BB%E5%8A%A8%E7%94%B5%E4%BF%A1%E5%8F%B7%E6%8E%A8%E6%B5%8B%E6%89%8B%E5%8A%BF)，结构化数据比赛
 
+---
+
 ### CV类型比赛
 - [2021全国数字生态创新大赛-智能算法赛](https://tianchi.aliyun.com/competition/entrance/531860/introduction), 语义分割比赛, [34.5-Unet](https://tianchi.aliyun.com/notebook-ai/detail?postId=169396), [38.5-Unet++](https://github.com/DLLXW/data-science-competition/tree/main/%E5%A4%A9%E6%B1%A0/2021%E5%85%A8%E5%9B%BD%E6%95%B0%E5%AD%97%E7%94%9F%E6%80%81%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%88%86%E5%89%B2)
 - [DC竞赛-AI助疫·口罩佩戴检测大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DC%E7%AB%9E%E8%B5%9B-AI%E5%8A%A9%E7%96%AB%C2%B7%E5%8F%A3%E7%BD%A9%E4%BD%A9%E6%88%B4%E6%A3%80%E6%B5%8B%E5%A4%A7%E8%B5%9B), CV类型比赛
@@ -82,6 +122,8 @@
 - [AI研习社-人脸年龄识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E4%BA%BA%E8%84%B8%E5%B9%B4%E9%BE%84%E8%AF%86%E5%88%AB)，CV类型比赛
 - [AI研习社-美食识别挑战（1）：豆腐VS土豆](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E7%BE%8E%E9%A3%9F%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%EF%BC%9A%E8%B1%86%E8%85%90VS%E5%9C%9F%E8%B1%86)，CV类型比赛
 - [AI研习社-猫脸关键点检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E5%96%B5%E8%84%B8%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B)，CV类型比赛
+
+---
 
 ### NLP类型比赛
 
