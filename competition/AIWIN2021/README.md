@@ -12,7 +12,7 @@
 
 比赛地址：http://ailab.aiwin.org.cn/competitions/49
 
-训练集OCR识别结果：http://datawhale-cdn.coggle.club/aiwin2021/ocr/ocr_result.zip
+训练集+测试集OCR识别结果：http://datawhale-cdn.coggle.club/aiwin2021/ocr/ocr_result.zip
 
 
 ## 赛题3-文化传媒数字资产的自动编目
