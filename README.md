@@ -16,6 +16,10 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+## 科大讯飞AI开发者大赛2021
+
+- [广告图片素材分类算法挑战赛](http://challenge.xfyun.cn/topic/info?type=ad-2021)，CV类型赛题，图像分类任务，[基础的分类思路](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021)
+
 ## [腾讯广告算法大赛](https://algo.qq.com/)
 
 ### 2021年度腾讯赛
