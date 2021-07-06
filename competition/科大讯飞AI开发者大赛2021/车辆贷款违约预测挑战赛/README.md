@@ -1,10 +1,10 @@
-
 # 车辆贷款违约预测挑战赛baseline
 
 本文旨在帮助各位选手快速入门比赛，搭建一个可出结果的baseline代码，另外也会给出相关知识点和学习方向，帮助快速提升成绩和竞赛入门。
 
 比赛地址：http://challenge.xfyun.cn/topic/info?type=car-loan
 
+- 本文旨在帮助各位选手快速入门比赛，搭建一个可出结果的baseline代码，另外也会给出相关知识点和学习方向，帮助快速提升成绩和竞赛入门。
 
 ## 1.导入第三方包
 
@@ -15,7 +15,7 @@ import numpy as np
 import lightgbm as lgb
 
 from sklearn.model_selection import KFold
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, roc_auc_score
 
 import warnings
 warnings.filterwarnings('ignore')
@@ -92,7 +92,7 @@ y_train = train['loan_default']
   - - https://blog.csdn.net/wuzhongqiang/article/details/105350579
 
 ```python
-def cv_model(clf, train_x, train_y, test_x):
+def cv_model(clf, train_x, train_y, test_x, clf_name='lgb'):
     folds = 5
     seed = 2021
     kf = KFold(n_splits=folds, shuffle=True, random_state=seed)
@@ -134,7 +134,7 @@ def cv_model(clf, train_x, train_y, test_x):
         # print(list(sorted(zip(features, model.feature_importance("gain")), key=lambda x: x[1], reverse=True))[:20])
 
         train[valid_index] = val_pred
-        test = test_pred / kf.n_splits
+        test += test_pred / kf.n_splits
         cv_scores.append(roc_auc_score(val_y, val_pred))
         
         print(cv_scores)
@@ -147,54 +147,6 @@ def cv_model(clf, train_x, train_y, test_x):
 
 ```python
 lgb_train, lgb_test = cv_model(lgb, x_train, y_train, x_test)
-```
-
-```
-************************************ 1 ************************************
-[LightGBM] [Warning] num_threads is set with n_jobs=24, nthread=28 will be ignored. Current value: num_threads=24
-[LightGBM] [Warning] Unknown parameter: silent
-Training until validation scores don't improve for 200 rounds
-[500]	training's auc: 0.757231	valid_1's auc: 0.665693
-Early stopping, best iteration is:
-[621]	training's auc: 0.772002	valid_1's auc: 0.666507
-[0.6665074037191319]
-************************************ 2 ************************************
-[LightGBM] [Warning] num_threads is set with n_jobs=24, nthread=28 will be ignored. Current value: num_threads=24
-[LightGBM] [Warning] Unknown parameter: silent
-Training until validation scores don't improve for 200 rounds
-[500]	training's auc: 0.756381	valid_1's auc: 0.664377
-Early stopping, best iteration is:
-[778]	training's auc: 0.787422	valid_1's auc: 0.665463
-[0.6665074037191319, 0.665462735236708]
-************************************ 3 ************************************
-[LightGBM] [Warning] num_threads is set with n_jobs=24, nthread=28 will be ignored. Current value: num_threads=24
-[LightGBM] [Warning] Unknown parameter: silent
-Training until validation scores don't improve for 200 rounds
-[500]	training's auc: 0.757112	valid_1's auc: 0.664455
-[1000]	training's auc: 0.808913	valid_1's auc: 0.665032
-Early stopping, best iteration is:
-[880]	training's auc: 0.798366	valid_1's auc: 0.66538
-[0.6665074037191319, 0.665462735236708, 0.6653798253532002]
-************************************ 4 ************************************
-[LightGBM] [Warning] num_threads is set with n_jobs=24, nthread=28 will be ignored. Current value: num_threads=24
-[LightGBM] [Warning] Unknown parameter: silent
-Training until validation scores don't improve for 200 rounds
-[500]	training's auc: 0.758461	valid_1's auc: 0.651188
-[1000]	training's auc: 0.809703	valid_1's auc: 0.652432
-Early stopping, best iteration is:
-[1010]	training's auc: 0.810576	valid_1's auc: 0.652542
-[0.6665074037191319, 0.665462735236708, 0.6653798253532002, 0.6525417062717462]
-************************************ 5 ************************************
-[LightGBM] [Warning] num_threads is set with n_jobs=24, nthread=28 will be ignored. Current value: num_threads=24
-[LightGBM] [Warning] Unknown parameter: silent
-Training until validation scores don't improve for 200 rounds
-[500]	training's auc: 0.756915	valid_1's auc: 0.661828
-Early stopping, best iteration is:
-[639]	training's auc: 0.773457	valid_1's auc: 0.662211
-[0.6665074037191319, 0.665462735236708, 0.6653798253532002, 0.6525417062717462, 0.662211448505362]
-lgb_scotrainre_list: [0.6665074037191319, 0.665462735236708, 0.6653798253532002, 0.6525417062717462, 0.662211448505362]
-lgb_score_mean: 0.6624206238172297
-lgb_score_std: 0.005144897506601224
 ```
 
 #### 参数优化
@@ -225,7 +177,7 @@ lgb_score_std: 0.005144897506601224
 
 ## 5.搜索最佳阈值
 
-- 因为使用F1评价指标，所以需要将概率结果转为整数，这里就需要转化阈值，即大于这个值的为1，小于等于这个值的为0，可以使用贪心的方式进行搜索。
+- 因为使用F1评价指标，所以需要将概率结果转为整数，这里就需要转化阈值，即大于这个值的为1，小于等于这个值的为0，可以使用贪心的方式进行搜索。此部分配套Baseline中未加入，感兴趣的小伙伴可自行尝试。
 
 ```python
 for thr in [0.2,0.25,0.3,0.35,0.4]:
