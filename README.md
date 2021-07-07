@@ -21,7 +21,7 @@
 ## 科大讯飞AI开发者大赛2021
 
 - [广告图片素材分类算法挑战赛](http://challenge.xfyun.cn/topic/info?type=ad-2021)，CV类型赛题，图像分类任务，[基础的分类思路](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021)
-- [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan), [学习资料](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B.md)
+- [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)
 
 ## [腾讯广告算法大赛](https://algo.qq.com/)
 
