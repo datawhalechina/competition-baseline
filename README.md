@@ -16,6 +16,8 @@
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
 
+如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
+
 ## 科大讯飞AI开发者大赛2021
 
 - [广告图片素材分类算法挑战赛](http://challenge.xfyun.cn/topic/info?type=ad-2021)，CV类型赛题，图像分类任务，[基础的分类思路](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021)
@@ -113,6 +115,7 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 ---
 
 ### CV类型比赛
+- [“英特尔创新大师杯”深度学习挑战赛 赛道1：通用场景OCR文本识别任务](https://tianchi.aliyun.com/competition/entrance/531902/introduction), OCR比赛, [baseline](https://gitee.com/coggle/tianchi-intel-PaddleOCR)
 - [2021全国数字生态创新大赛-智能算法赛](https://tianchi.aliyun.com/competition/entrance/531860/introduction), 语义分割比赛, [34.5-Unet](https://tianchi.aliyun.com/notebook-ai/detail?postId=169396), [38.5-Unet++](https://github.com/DLLXW/data-science-competition/tree/main/%E5%A4%A9%E6%B1%A0/2021%E5%85%A8%E5%9B%BD%E6%95%B0%E5%AD%97%E7%94%9F%E6%80%81%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%88%86%E5%89%B2)
 - [DC竞赛-AI助疫·口罩佩戴检测大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DC%E7%AB%9E%E8%B5%9B-AI%E5%8A%A9%E7%96%AB%C2%B7%E5%8F%A3%E7%BD%A9%E4%BD%A9%E6%88%B4%E6%A3%80%E6%B5%8B%E5%A4%A7%E8%B5%9B), CV类型比赛
 - [Kesci-中国华录杯人群密度检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Kesci-%E4%B8%AD%E5%9B%BD%E5%8D%8E%E5%BD%95%E6%9D%AF%E4%BA%BA%E7%BE%A4%E5%AF%86%E5%BA%A6%E6%A3%80%E6%B5%8B), CV类型比赛
