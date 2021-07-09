@@ -18,6 +18,8 @@
 
 如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
 
+---
+
 ### 科大讯飞AI开发者大赛2021
 
 - [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan&ch=dc-wbzmt-05), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)
@@ -154,7 +156,7 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 - [biendata-智源&计算所-互联网虚假新闻检测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/biendata-%E6%99%BA%E6%BA%90%26%E8%AE%A1%E7%AE%97%E6%89%80-%E4%BA%92%E8%81%94%E7%BD%91%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB%E6%A3%80%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 
---
+---
 
 ### 其他类型
 
