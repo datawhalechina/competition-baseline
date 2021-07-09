@@ -32,6 +32,8 @@
 - [猪只盘点挑战赛](http://challenge.xfyun.cn/topic/info?type=pig-check&ch=dc-wbzmt-05), [预训练模型](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_%E7%8C%AA%E5%8F%AA%E7%9B%98%E7%82%B9%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
 - [新冠肺炎声音诊断挑战赛](http://challenge.xfyun.cn/topic/info?type=covid-19&ch=dc-wbzmt-05)，[baseline 0.53532 Top20](https://github.com/zfs1998/data-science/blob/main/IFLYTEK/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6_%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%A3%B0%E9%9F%B3%E8%AF%8A%E6%96%AD%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
 
+---
+
 ### [腾讯广告算法大赛](https://algo.qq.com/)
 
 #### 2021年度腾讯赛
@@ -64,6 +66,7 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 - [互联网舆情企业风险事件的识别和预警](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), NLP类型比赛
 - [保险文本视觉认知问答竞赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), CV/NLP，多模态类型比赛
 
+---
 
 ### [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
 - 通用音频分类, [LGB](https://github.com/zjuzpw/baseline/blob/CCF2020BDCI/baseline_lgb.ipynb), [CNN, 0.9+](https://blog.csdn.net/wherewegogo/article/details/110369729)
@@ -150,6 +153,8 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 - [DataFountain-互联网新闻情感分析](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E9%97%BB%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90)，NLP类型比赛
 - [biendata-智源&计算所-互联网虚假新闻检测挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/biendata-%E6%99%BA%E6%BA%90%26%E8%AE%A1%E7%AE%97%E6%89%80-%E4%BA%92%E8%81%94%E7%BD%91%E8%99%9A%E5%81%87%E6%96%B0%E9%97%BB%E6%A3%80%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
 - [Tianchi-第三届阿里云安全算法挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B)，NLP类型比赛
+
+--
 
 ### 其他类型
 
