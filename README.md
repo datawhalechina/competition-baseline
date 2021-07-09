@@ -22,10 +22,13 @@
 
 - [广告图片素材分类算法挑战赛](http://challenge.xfyun.cn/topic/info?type=ad-2021)，CV类型赛题，图像分类任务，[基础的分类思路](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021)
 - [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)
+- [基于用户画像的商品推荐挑战赛], [LSMT-0.6786](https://mp.weixin.qq.com/s/KDH_klH_74726S8gX4FEyQ)
+- [蛋白质结构预测挑战赛算法], [CNN-0.21](https://mp.weixin.qq.com/s/0oGWD0O5ARokxrAiW2T9uQ)
+- [环境空气质量评价挑战赛], [lgb-0.04385](https://mp.weixin.qq.com/s/9gZJ6ScwW1urRMc-6p6n5A)
 
-## [腾讯广告算法大赛](https://algo.qq.com/)
+### [腾讯广告算法大赛](https://algo.qq.com/)
 
-### 2021年度腾讯赛
+#### 2021年度腾讯赛
 
 本届从广告应用场景痛点出发，开设“视频广告秒级语义解析”和“多模态视频广告标签”两大赛道，兼具算法挑战性和商业应用价值。
 
@@ -36,7 +39,7 @@
 https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 
 
-### 2020年度腾讯赛
+#### 2020年度腾讯赛
 
 本届以用户在广告系统中的交互行为作为输入来预测用户的人口统计学属性。
 
@@ -55,7 +58,6 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 - [互联网舆情企业风险事件的识别和预警](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), NLP类型比赛
 - [保险文本视觉认知问答竞赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/AIWIN2021), CV/NLP，多模态类型比赛
 
----
 
 ### [CCF BDCI2020大数据与计算智能大赛](https://www.datafountain.cn/special/BDCI2020)
 - 通用音频分类, [LGB](https://github.com/zjuzpw/baseline/blob/CCF2020BDCI/baseline_lgb.ipynb), [CNN, 0.9+](https://blog.csdn.net/wherewegogo/article/details/110369729)
