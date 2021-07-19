@@ -22,6 +22,7 @@
 
 ### 科大讯飞AI开发者大赛2021
 
+- [电商图像检索挑战赛](http://challenge.xfyun.cn/topic/info?type=e-commerce-image-retrieval&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E7%94%B5%E5%95%86%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2%E6%8C%91%E6%88%98%E8%B5%9B)
 - [人脸情绪识别挑战赛](http://challenge.xfyun.cn/topic/info?type=facial-emotion-recognition&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%BA%BA%E8%84%B8%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B)
 - [学术论文分类挑战赛](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%88%86%E7%B1%BB%E6%8C%91%E6%88%98%E8%B5%9B)
 - [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)
