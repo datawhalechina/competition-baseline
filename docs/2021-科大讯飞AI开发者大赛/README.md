@@ -74,15 +74,69 @@ http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1
 ##### 方法1：相似度特征 + 树模型分类
 
 - 文本长度特征
-```
+```python
 data['q1_len']=data['q1'].astype(str).map(len)
 data['q2_len']=data['q2'].astype(str).map(len)
 ```
 
 - 长度差特征：差/比例
-```
+```python
 data['q1q2_len_diff']=data['q1_len']-data['q2_len']
 data['q1q2_len_diff_abs']=np.abs(data['q1_len']-data['q2_len'])
 data['q1q2_rate']=data['q1_len']/data['q2_len']
 data['q2q1_rate']=data['q2_len']/data['q1_len']
+```
+
+- 特殊符号特征
+```python
+data['q1_end_special']=data['q1'].str.endswith('？').astype(int)
+data['q2_end_special']=data['q2'].str.endswith('？').astype(int)
+```
+
+- 共现字特征
+```python
+data['comm_q1q2char_nums']=data.apply(lambda  row:len(set(row['q1'])&set(row['q2'])),axis=1)
+
+def char_match_pos(q1, q2, pos_i):
+    q1 = list(q1)
+    q2 = list(q2)
+
+    if pos_i < len(q1):
+        q2_len = min(len(q2), 25)  # q2_len只匹配前25个字
+        for pos_j in range(q2_len):
+            if q1[pos_i] == q2[pos_j]:
+                q_pos = pos_j + 1  # 如果匹配上了 记录匹配的位置
+                break
+            elif pos_j == q2_len - 1:
+                q_pos = 0  # 如果没有匹配上 赋值为0
+    else:
+        q_pos = -1  # 如果后续长度不存在 赋值为-1
+
+    return q_pos
+
+for pos_i in range(8):
+    data['q1_pos_' + str(pos_i + 1)] = data.apply(
+        lambda row: char_match_pos(row['q1'], row['q2'], pos_i), axis=1).astype(np.int8)
+```
+
+- 距离特征
+```
+sim_func_dict = {"jaccard": distance.jaccard,
+                 "sorensen": distance.sorensen,
+                 "levenshtein": distance.levenshtein,
+                 "ratio": Levenshtein.ratio
+                 }
+
+for sim_func in tqdm(sim_func_dict, desc="距离特征"):
+    data[sim_func] = data.apply(lambda row: sim_func_dict[sim_func](row["q1"],row["q2"]), axis=1)
+    qt = [[3, 3], [3, 5], [5, 5], [5, 10], [10, 10], [10, 15], [15, 15], [15, 25]]
+
+    for qt_len in qt:
+        if qt_len[0] == 3 and sim_func == "levenshtein":
+            pass
+        else:
+            data[sim_func + '_q' + str(qt_len[0]) + '_t' + str(qt_len[1])] = data.apply(
+                lambda row: sim_func_dict[sim_func](row["q1"][:qt_len[0]],
+                                                    row["q2"][:qt_len[1]]),
+                axis=1)
 ```
