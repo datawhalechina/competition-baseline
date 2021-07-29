@@ -1,16 +1,49 @@
-### 科大讯飞AI开发者大赛2021
+### Part1 讯飞赛事介绍
 
-- [电商图像检索挑战赛](http://challenge.xfyun.cn/topic/info?type=e-commerce-image-retrieval&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E7%94%B5%E5%95%86%E5%9B%BE%E5%83%8F%E6%A3%80%E7%B4%A2%E6%8C%91%E6%88%98%E8%B5%9B)
-- [人脸情绪识别挑战赛](http://challenge.xfyun.cn/topic/info?type=facial-emotion-recognition&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%BA%BA%E8%84%B8%E6%83%85%E7%BB%AA%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B)
-- [学术论文分类挑战赛](http://challenge.xfyun.cn/topic/info?type=academic-paper-classification&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%88%86%E7%B1%BB%E6%8C%91%E6%88%98%E8%B5%9B)
-- [车辆贷款违约预测挑战赛](http://challenge.xfyun.cn/topic/info?type=car-loan&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E8%BD%A6%E8%BE%86%E8%B4%B7%E6%AC%BE%E8%BF%9D%E7%BA%A6%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B)
-- [广告图片素材分类算法挑战赛](http://challenge.xfyun.cn/topic/info?type=ad-2021&ch=dw-sq-1)，[基础的分类思路](https://github.com/datawhalechina/competition-baseline/tree/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021)
-- [农作物生长情况识别挑战赛](http://challenge.xfyun.cn/topic/info?type=crop&ch=dw-sq-1), [keras](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6_%E5%86%9C%E4%BD%9C%E7%89%A9%E7%94%9F%E9%95%BF%E6%83%85%E5%86%B5%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
-- [引导拍照挑战赛](http://challenge.xfyun.cn/topic/info?type=guide-photo&ch=dw-sq-1), [keras](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6_%E5%BC%95%E5%AF%BC%E6%8B%8D%E7%85%A7%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
-- [脑部PETMR图像疾病预测挑战赛](http://challenge.xfyun.cn/topic/info?type=PET&ch=dw-sq-1), [keras](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E5%AE%89%E5%BE%BD%E5%A4%A7%E5%AD%A6-%E8%84%91%E9%83%A8PETMR%E5%9B%BE%E5%83%8F%E7%96%BE%E7%97%85%E9%A2%84%E6%B5%8B%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
-- [智能硬件语音控制的时频图分类挑战赛](http://challenge.xfyun.cn/topic/info?type=time-frequency&ch=dw-sq-1), [pytorch](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%AF%AD%E9%9F%B3%E6%8E%A7%E5%88%B6%E7%9A%84%E6%97%B6%E9%A2%91%E5%9B%BE%E5%88%86%E7%B1%BB%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
-- [基于用户画像的商品推荐挑战赛](http://challenge.xfyun.cn/topic/info?type=user-portrait&ch=dw-sq-1), [LSTM-0.6786](https://mp.weixin.qq.com/s/KDH_klH_74726S8gX4FEyQ)
-- [蛋白质结构预测挑战赛算法](http://challenge.xfyun.cn/topic/info?type=protein&ch=dw-sq-1), [CNN-0.21](https://mp.weixin.qq.com/s/0oGWD0O5ARokxrAiW2T9uQ), [XGB基础代码](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%A4%A7%E5%AD%A6_%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%93%E6%9E%84%E9%A2%84%E6%B5%8B%E8%B5%9B.ipynb)
-- [环境空气质量评价挑战赛](http://challenge.xfyun.cn/topic/info?type=air-quality&ch=dw-sq-1), [LR-0.04385](https://mp.weixin.qq.com/s/9gZJ6ScwW1urRMc-6p6n5A)
-- [猪只盘点挑战赛](http://challenge.xfyun.cn/topic/info?type=pig-check&ch=dw-sq-1), [预训练模型](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_%E7%8C%AA%E5%8F%AA%E7%9B%98%E7%82%B9%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
-- [新冠肺炎声音诊断挑战赛](http://challenge.xfyun.cn/topic/info?type=covid-19&ch=dw-sq-1)，[baseline 0.53532 Top20](https://github.com/zfs1998/data-science/blob/main/IFLYTEK/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6_%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%A3%B0%E9%9F%B3%E8%AF%8A%E6%96%AD%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
+2021年A.I.开发者大赛继续秉承 “技术顶天、应用立地”的坚定理念，开放科大讯飞海量数据资源及人工智能核心技术，全面升级A.I.算法赛、A.I.应用赛、A.I.公益赛、A.I.缤纷赛四大赛道，面向全球开发者，激发人工智能多个行业领域应用的创新探索与挑战。
+
+算法赛与应用赛全方位覆盖了智能语音、CV、NLP、OCR、AR人机交互等人工智能热门研究，同时深耕农业养殖、生物与环保、医疗健康、地理遥感、企业数字化、新能源汽车、金融信息化、智慧城市等多领域多行业方向，期待开发者们尽情展示算法与应用的智慧演练！
+除了面向全球专业开发者的数据算法及创新应用两大经典赛道，为进一步赋能行业与生活场景，2021 iFLYTEK A.I.开发者大赛针对赛道进行了创新性升级，丰富的赛题内容带给选手更多的可能性，下面就让我们看看今年都有哪些赛题吧！
+
+
+### Part2 学术论文分类挑战赛
+
+- 赛题类型：自然语言处理
+- 赛题任务：文本分类
+- 赛题链接：http://challenge.xfyun.cn/topic/info?type=academic-paper-classification&ch=dw-sq-1
+
+#### 赛题背景 & 任务
+
+随着人工智能技术不断发展，每周都有非常多的论文公开发布。现如今对论文进行分类逐渐成为非常现实的问题，这也是研究人员和研究机构每天都面临的问题。现在希望选手能构建一个论文分类模型。
+
+本次赛题希望参赛选手利用论文信息：论文id、标题、摘要，划分论文具体类别。
+
+```
+paperid：9821
+title：Calculation of prompt diphoton production cross sections at Tevatron and LHC energies
+abstract：A fully differential calculation in perturbative quantum chromodynamics is presented for the production of massive photon pairs at hadron colliders. All next-to-leading order perturbative contributions from quark-antiquark, gluon-(anti)quark, and gluon-gluon subprocesses are included, as well as all-orders resummation of initial-state gluon radiation valid at next-to-next-to-leading logarithmic accuracy.
+categories：hep-ph
+```
+
+训练数据和测试集以csv文件给出，其中：
+- 训练集5W篇论文。其中每篇论文都包含论文id、标题、摘要和类别四个字段。
+- 测试集1W篇论文。其中每篇论文都包含论文id、标题、摘要，不包含论文类别字段。
+
+本次竞赛的评价标准采用准确率指标，最高分为1。计算方法参考https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html， 评估代码参考：
+
+```
+from sklearn.metrics import accuracy_score
+y_pred = [0, 2, 1, 3]
+y_true = [0, 1, 2, 3]
+accuracy_score(y_true, y_pred)
+```
+
+#### 赛题解题思路
+
+赛题是一个典型的文本分类任务，所以可以使用文本分类的思路来完成。在本赛题我们主要尝试两个思路：
+- 方法1：文本TFIDF特征抽取 + 线性分类
+- 方法2：Bert模型文本分类
+
+##### 方法1：文本TFIDF特征抽取 + 线性分类
+
+##### 方法2：Bert模型文本分类
