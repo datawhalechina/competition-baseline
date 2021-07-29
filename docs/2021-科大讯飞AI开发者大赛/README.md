@@ -131,7 +131,7 @@ sim_func_dict = {"jaccard": distance.jaccard,
 for sim_func in tqdm(sim_func_dict, desc="距离特征"):
     data[sim_func] = data.apply(lambda row: sim_func_dict[sim_func](row["q1"],row["q2"]), axis=1)
     qt = [[3, 3], [3, 5], [5, 5], [5, 10], [10, 10], [10, 15], [15, 15], [15, 25]]
-
+    
     for qt_len in qt:
         if qt_len[0] == 3 and sim_func == "levenshtein":
             pass
