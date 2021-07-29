@@ -121,6 +121,7 @@ for pos_i in range(8):
 ```
 
 - 距离特征
+
 ```python
 sim_func_dict = {"jaccard": distance.jaccard,
                  "sorensen": distance.sorensen,
