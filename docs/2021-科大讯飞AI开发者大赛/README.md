@@ -88,19 +88,20 @@ data['q2q1_rate']=data['q2_len']/data['q1_len']
 ```
 
 - 特殊符号特征
+
 ```python
 data['q1_end_special']=data['q1'].str.endswith('？').astype(int)
 data['q2_end_special']=data['q2'].str.endswith('？').astype(int)
 ```
 
 - 共现字特征
+
 ```python
-data['comm_q1q2char_nums']=data.apply(lambda  row:len(set(row['q1'])&set(row['q2'])),axis=1)
+data['comm_q1q2char_nums'] = data.apply(lambda  row:len(set(row['q1'])&set(row['q2'])),axis=1)
 
 def char_match_pos(q1, q2, pos_i):
     q1 = list(q1)
     q2 = list(q2)
-
     if pos_i < len(q1):
         q2_len = min(len(q2), 25)  # q2_len只匹配前25个字
         for pos_j in range(q2_len):
@@ -120,7 +121,7 @@ for pos_i in range(8):
 ```
 
 - 距离特征
-```
+```python
 sim_func_dict = {"jaccard": distance.jaccard,
                  "sorensen": distance.sorensen,
                  "levenshtein": distance.levenshtein,
