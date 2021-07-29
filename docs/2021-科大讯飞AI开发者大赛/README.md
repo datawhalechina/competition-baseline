@@ -46,4 +46,6 @@ accuracy_score(y_true, y_pred)
 
 ##### 方法1：文本TFIDF特征抽取 + 线性分类
 
+TFIDF是非常常见的文本特征提取方法。
+
 ##### 方法2：Bert模型文本分类
