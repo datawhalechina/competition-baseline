@@ -68,5 +68,21 @@ http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1
 #### 赛题解题思路
 
 赛题是一个典型的文本匹配任务，可以使用文本匹配的思路完成。在本赛题我们主要尝试两个思路：
-- 方法1：文本相似度 + 树模型分类
+- 方法1：相似度特征 + 树模型分类
 - 方法2：Bert NSP任务
+
+##### 方法1：相似度特征 + 树模型分类
+
+- 文本长度特征
+```
+data['q1_len']=data['q1'].astype(str).map(len)
+data['q2_len']=data['q2'].astype(str).map(len)
+```
+
+- 长度差特征：差/比例
+```
+data['q1q2_len_diff']=data['q1_len']-data['q2_len']
+data['q1q2_len_diff_abs']=np.abs(data['q1_len']-data['q2_len'])
+data['q1q2_rate']=data['q1_len']/data['q2_len']
+data['q2q1_rate']=data['q2_len']/data['q1_len']
+```
