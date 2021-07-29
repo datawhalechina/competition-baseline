@@ -13,3 +13,8 @@
 测试集：约5千条问题对，需要选手预测标签。
 
 http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1
+
+### baseline
+
+- [BERT NSP方法](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%B8%AD%E6%96%87%E9%97%AE%E9%A2%98%E7%9B%B8%E4%BC%BC%E5%BA%A6%E6%8C%91%E6%88%98%E8%B5%9B/bert-nsp.ipynb)
+- [word2vec + LightGBM](https://mp.weixin.qq.com/s/E3sfNaNg8JH-w_7Yv40MWw), 链接：https://pan.baidu.com/s/1WC3vQGlgBFvnlAXcj-0qrA 提取码：v7aj 
