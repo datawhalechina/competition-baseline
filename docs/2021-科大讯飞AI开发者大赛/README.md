@@ -66,3 +66,7 @@ http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1
 - 测试集：约5千条问题对，需要选手预测标签。
 
 #### 赛题解题思路
+
+赛题是一个典型的文本匹配任务，可以使用文本匹配的思路完成。在本赛题我们主要尝试两个思路：
+- 方法1：文本相似度 + 树模型分类
+- 方法2：Bert NSP任务
