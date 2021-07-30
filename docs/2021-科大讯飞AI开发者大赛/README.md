@@ -141,6 +141,7 @@ for sim_func in tqdm(sim_func_dict, desc="距离特征"):
 ```
 
 - 向量特征
+
 ```
 def w2v_sent2vec(words):
     """计算句子的平均word2vec向量, sentences是一个句子, 句向量最后会归一化"""
@@ -153,10 +154,8 @@ def w2v_sent2vec(words):
     M = np.array(M)
     v = M.sum(axis=0)
     return (v / np.sqrt((v ** 2).sum())).astype(np.float32).tolist()
-
 fea_names = ['q1_vec_{}'.format(i) for i in range(100)]
 data[fea_names] = data.progress_apply(lambda row: w2v_sent2vec(row['q1_words_list']), result_type='expand', axis=1)
-
 fea_names = ['q2_vec_{}'.format(i) for i in range(100)]
 data[fea_names] = data.progress_apply(lambda row: w2v_sent2vec(row['q2_words_list']), result_type='expand', axis=1)
 ```
