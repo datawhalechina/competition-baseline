@@ -139,3 +139,209 @@ for sim_func in tqdm(sim_func_dict, desc="距离特征"):
                                                     row["q2"][:qt_len[1]]),
                 axis=1)
 ```
+
+- 向量特征
+```
+def w2v_sent2vec(words):
+    """计算句子的平均word2vec向量, sentences是一个句子, 句向量最后会归一化"""
+    M = []
+    for word in words:
+        try:
+            M.append(w2v_model.wv[word])
+        except KeyError:  # 不在词典里
+            continue
+    M = np.array(M)
+    v = M.sum(axis=0)
+    return (v / np.sqrt((v ** 2).sum())).astype(np.float32).tolist()
+
+fea_names = ['q1_vec_{}'.format(i) for i in range(100)]
+data[fea_names] = data.progress_apply(lambda row: w2v_sent2vec(row['q1_words_list']), result_type='expand', axis=1)
+
+fea_names = ['q2_vec_{}'.format(i) for i in range(100)]
+data[fea_names] = data.progress_apply(lambda row: w2v_sent2vec(row['q2_words_list']), result_type='expand', axis=1)
+```
+
+提取完特征后将特征送入LightGBM完成训练即可，线上得分可以有0.84+。
+
+##### 方法2：Bert NSP任务
+
+赛题为经典的文本匹配任务，所以可以考虑使用Bert的NSP来完成建模。
+
+- 步骤1：读取数据集
+
+```
+import pandas as pd
+import codecs
+train_df = pd.read_csv('train.csv', sep='\t', names=['question1', 'question2', 'label'])
+```
+
+并按照标签划分验证集：
+
+```
+# stratify 按照标签进行采样，训练集和验证部分同分布
+q1_train, q1_val, q2_train, q2_val, train_label, test_label =  train_test_split(
+    train_df['question1'].iloc[:], 
+    train_df['question2'].iloc[:],
+    train_df['label'].iloc[:],
+    test_size=0.1, 
+    stratify=train_df['label'].iloc[:])
+```
+
+- 步骤2：文本进行tokenizer
+
+使用Bert对文本进行转换，此时模型选择`bert-base-chinese`。
+
+```
+# pip install transformers
+tokenizer = BertTokenizer.from_pretrained('bert-base-chinese')
+train_encoding = tokenizer(list(q1_train), list(q2_train), 
+                           truncation=True, padding=True, max_length=100)
+val_encoding = tokenizer(list(q1_val), list(q2_val), 
+                          truncation=True, padding=True, max_length=100)
+```
+
+- 步骤3：定义dataset
+
+```
+# 数据集读取
+class XFeiDataset(Dataset):
+    def __init__(self, encodings, labels):
+        self.encodings = encodings
+        self.labels = labels
+    
+    # 读取单个样本
+    def __getitem__(self, idx):
+        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+        item['labels'] = torch.tensor(int(self.labels[idx]))
+        return item
+    
+    def __len__(self):
+        return len(self.labels)
+
+train_dataset = XFeiDataset(train_encoding, list(train_label))
+val_dataset = XFeiDataset(val_encoding, list(test_label))
+```
+
+- 步骤4：定义匹配模型
+
+使用`BertForNextSentencePrediction`完成文本匹配任务，并定义优化器。
+
+```
+from transformers import BertForNextSentencePrediction, AdamW, get_linear_schedule_with_warmup
+model = BertForNextSentencePrediction.from_pretrained('bert-base-chinese')
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.to(device)
+
+# 单个读取到批量读取
+train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True)
+val_dataloader = DataLoader(val_dataset, batch_size=4, shuffle=True)
+
+# 优化方法
+optim = AdamW(model.parameters(), lr=1e-5)
+```
+
+- 步骤5：模型训练与验证
+
+祖传代码：模型正向传播和准确率计算。
+
+```
+# 训练函数
+def train():
+    model.train()
+    total_train_loss = 0
+    iter_num = 0
+    total_iter = len(train_loader)
+    for batch in train_loader:
+        # 正向传播
+        optim.zero_grad()
+        input_ids = batch['input_ids'].to(device)
+        attention_mask = batch['attention_mask'].to(device)
+        labels = batch['labels'].to(device)
+        outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
+        loss = outputs[0]
+        total_train_loss += loss.item()
+        
+        # 反向梯度信息
+        loss.backward()
+        torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+        
+        # 参数更新
+        optim.step()
+
+        iter_num += 1
+        if(iter_num % 100==0):
+            print("epoth: %d, iter_num: %d, loss: %.4f, %.2f%%" % (epoch, iter_num, loss.item(), iter_num/total_iter*100))
+        
+    print("Epoch: %d, Average training loss: %.4f"%(epoch, total_train_loss/len(train_loader)))
+    
+def validation():
+    model.eval()
+    total_eval_accuracy = 0
+    total_eval_loss = 0
+    for batch in val_dataloader:
+        with torch.no_grad():
+            # 正常传播
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
+            outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
+        
+        loss = outputs[0]
+        logits = outputs[1]
+
+        total_eval_loss += loss.item()
+        logits = logits.detach().cpu().numpy()
+        label_ids = labels.to('cpu').numpy()
+        total_eval_accuracy += flat_accuracy(logits, label_ids)
+        
+    avg_val_accuracy = total_eval_accuracy / len(val_dataloader)
+    print("Accuracy: %.4f" % (avg_val_accuracy))
+    print("Average testing loss: %.4f"%(total_eval_loss/len(val_dataloader)))
+    print("-------------------------------")
+    
+
+for epoch in range(5):
+    print("------------Epoch: %d ----------------" % epoch)
+    train()
+    validation()
+    torch.save(model.state_dict(), f'model_{epoch}.pt')
+```
+
+- 步骤6：对测试集进行预测
+
+读取测试集数据，进行转换。
+
+```
+test_df = pd.read_csv('test.csv', sep='\t', names=['question1', 'question2', 'label'])
+test_df['label'] = test_df['label'].fillna(0)
+
+test_encoding = tokenizer(list(test_df['question1']), list(test_df['question2']), 
+                          truncation=True, padding=True, max_length=100)
+test_dataset = XFeiDataset(test_encoding, list(test_df['label']))
+test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False)
+```
+
+对测试集数据进行正向传播预测，得到预测结果，并输出指定格式。
+
+```
+def predict():
+    model.eval()
+    test_predict = []
+    for batch in test_dataloader:
+        with torch.no_grad():
+            # 正常传播
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
+            outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
+        loss = outputs[0]
+        logits = outputs[1]
+
+        logits = logits.detach().cpu().numpy()
+        label_ids = labels.to('cpu').numpy()
+        test_predict += list(np.argmax(logits, axis=1).flatten())
+    return test_predict
+    
+test_label = predict()
+pd.DataFrame({'label':test_label}).to_csv('submit.csv', index=None)
+```
