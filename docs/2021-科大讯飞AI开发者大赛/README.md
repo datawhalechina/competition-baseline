@@ -44,12 +44,6 @@ accuracy_score(y_true, y_pred)
 - 方法1：文本TFIDF特征抽取 + 线性分类
 - 方法2：Bert模型文本分类
 
-##### 方法1：文本TFIDF特征抽取 + 线性分类
-
-TFIDF是非常常见的文本特征提取方法，使用的方法非常简单，可以直接借助sklearn来完成TFIDF特征提取。
-
-##### 方法2：Bert模型文本分类
-
 ### Part3 中文问题相似度挑战赛
 
 http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1
