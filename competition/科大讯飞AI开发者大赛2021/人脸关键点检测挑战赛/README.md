@@ -13,9 +13,7 @@ http://challenge.xfyun.cn/topic/info?type=key-points-of-human-face&ch=dw-sq-1
 
 ## 赛题数据
 
-赛题数据由训练集和测试集组成，train.csv为训练集标注数据，train.npy和test.npy为训练集图片和测试集图片，可以使用numpy.load进行读取。
-
-train.csv的信息为左眼坐标、右眼坐标、鼻子坐标和嘴巴坐标，总共8个点。
+赛题数据由训练集和测试集组成，train.csv为训练集标注数据，train.npy和test.npy为训练集图片和测试集图片，可以使用numpy.load进行读取。train.csv的信息为左眼坐标、右眼坐标、鼻子坐标和嘴巴坐标，总共8个点。
 
 本次竞赛的评价标准回归MAE进行评价，数值越小性能更优，最高分为0。评估代码参考：
 
