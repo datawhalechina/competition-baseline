@@ -1,7 +1,7 @@
 ## 2021 DIGIX全球校园AI算法精英大赛
 
 
-报名链接：https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073
+报名链接（限在校生）：https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073
 
 ## 赛题1：基于多目标多视图的用户留存周期预测
 - 简介
@@ -13,6 +13,8 @@
 本题目基于脱敏和采样后的数据信息，保证数据安全。利用连续30天的用户行为日志，用户信息，歌曲信息，歌手信息，歌曲音频信息，预测未来30天内用户的留存情况，按未来一日、两日、三日、七日、十四日、三十日分段。
 
 - 评价指标：Area Under Curve(AUC)
+
+- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game1
 
 ### 赛题2：基于多模型迁移预训练文章质量判别
 - 简介
@@ -27,6 +29,8 @@
 
 - 评价指标：F1 Score
 
+- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game2
+
 ### 赛题3：基于多目标优化的视频推荐
 
 - 简介
@@ -38,6 +42,8 @@
 本赛题提供14天数据用于训练，1天数据用于测试，数据包括用户特征，视频内容特征，以及用户历史行为数据，选手基于给出的数据，提供推荐策略，目标是预测每位用户观看视频时长所在区间，且预测是否对视频进行分享。所提供的数据经过脱敏处理，保证数据安全。
 
 - 评价指标：AUC加权和
+
+- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game3
 
 ### 赛题4：基于多模态多语言的搜索排序
 
@@ -53,6 +59,9 @@
 
 - 评价指标：HIT@K
 
+- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game4
+
+
 ### 赛题5：小样本菜单识别
 
 - 简介
@@ -65,6 +74,4 @@
 
 - 评价指标：F1 Score
 
-
-
-
+- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game5
