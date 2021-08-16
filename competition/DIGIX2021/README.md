@@ -3,7 +3,9 @@
 
 报名链接（限在校生）：https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073
 
-## 赛题1：基于多目标多视图的用户留存周期预测
+---
+
+### 赛题1：基于多目标多视图的用户留存周期预测
 - 简介
 
 活跃留存周期预测通常使用单一视图做预测。在音乐领域，结合用户关注的音乐话题信息进行表征学习、结合歌曲信息进行音频、歌词、歌曲名、评论文本的多模态表征、结合歌手、用户、歌曲构建知识图谱，基于用户在APP侧信息构造行为链路向量化，辅助多日留存的多目标优化。在业界探索下一代机器学习模型与多模态向量化中有非常深远的价值。
@@ -14,6 +16,9 @@
 
 - 评价指标：Area Under Curve (AUC)
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game1
+
+
+---
 
 ### 赛题2：基于多模型迁移预训练文章质量判别
 - 简介
@@ -31,6 +36,8 @@
 - 赛题讲解视频：https://www.bilibili.com/video/BV1Rf4y157eo
 
 
+---
+
 ### 赛题3：基于多目标优化的视频推荐
 
 - 简介
@@ -44,6 +51,9 @@
 - 评价指标：AUC加权和
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game3
 - 赛题讲解视频：https://www.bilibili.com/video/BV1gg411M7Bx
+
+
+---
 
 ### 赛题4：基于多模态多语言的搜索排序
 
@@ -60,6 +70,8 @@
 - 评价指标：HIT@K
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game4
 
+
+---
 
 ### 赛题5：小样本菜单识别
 
