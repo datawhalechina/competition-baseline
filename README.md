@@ -20,6 +20,20 @@
 
 ---
 
+### 华为DIGIX2021：全球校园AI算法精英大赛
+
+报名链接：https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073
+
+- 赛题1：基于多目标多视图的用户留存周期预测
+- 赛题2：基于多模型迁移预训练文章质量判别
+- 赛题3：基于多目标优化的视频推荐
+- 赛题4：基于多模态多语言的搜索排序
+- 赛题5：小样本菜单识别
+
+比赛baseline和学习资料：https://github.com/datawhalechina/competition-baseline/tree/master/competition/DIGIX2021
+
+---
+
 ### 科大讯飞AI开发者大赛2021
 
 - [中文问题相似度挑战赛](http://challenge.xfyun.cn/topic/info?type=chinese-question-similarity&ch=dw-sq-1), [学习资料](https://github.com/datawhalechina/competition-baseline/blob/master/competition/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B2021/%E4%B8%AD%E6%96%87%E9%97%AE%E9%A2%98%E7%9B%B8%E4%BC%BC%E5%BA%A6%E6%8C%91%E6%88%98%E8%B5%9B/bert-nsp-xunfei.ipynb)
