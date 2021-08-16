@@ -12,9 +12,8 @@
 
 本题目基于脱敏和采样后的数据信息，保证数据安全。利用连续30天的用户行为日志，用户信息，歌曲信息，歌手信息，歌曲音频信息，预测未来30天内用户的留存情况，按未来一日、两日、三日、七日、十四日、三十日分段。
 
-- 评价指标：Area Under Curve(AUC)
-
-- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game1
+- 评价指标：Area Under Curve (AUC)
+- baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game1
 
 ### 赛题2：基于多模型迁移预训练文章质量判别
 - 简介
@@ -28,8 +27,9 @@
 基础数据集包含两部分：训练集和测试集。其中训练集给定了该样本的文章质量的相关标签；测试集用于计算参赛选手模型的评分指标，参赛选手需要计算出测试集中每个样本文章质量判断及优质文章的类型。
 
 - 评价指标：F1 Score
+- baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game2
+- 赛题讲解视频：https://www.bilibili.com/video/BV1Rf4y157eo
 
-- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game2
 
 ### 赛题3：基于多目标优化的视频推荐
 
@@ -42,8 +42,8 @@
 本赛题提供14天数据用于训练，1天数据用于测试，数据包括用户特征，视频内容特征，以及用户历史行为数据，选手基于给出的数据，提供推荐策略，目标是预测每位用户观看视频时长所在区间，且预测是否对视频进行分享。所提供的数据经过脱敏处理，保证数据安全。
 
 - 评价指标：AUC加权和
-
-- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game3
+- baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game3
+- 赛题讲解视频：https://www.bilibili.com/video/BV1gg411M7Bx
 
 ### 赛题4：基于多模态多语言的搜索排序
 
@@ -58,8 +58,7 @@
 基础数据集包含两部分：训练集和测试集。其中训练集为若干个Query下的网页排序；测试集选手需提交对提供Query的网页排序，用于计算与真实排序的HIT@K。
 
 - 评价指标：HIT@K
-
-- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game4
+- baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game4
 
 
 ### 赛题5：小样本菜单识别
@@ -73,5 +72,5 @@
 本赛题为选手提供菜单图片数据及其标注。训练集包括通用字符菜单图片及少量包含特殊字符菜单图片，选手使用训练数据进行模型训练。测试集分为A/B两个测试集。测试集仅提供菜单图片，选手使用模型预测菜单图片中文本主体的位置和内容。
 
 - 评价指标：F1 Score
-
-- baseline地址：https://github.com/luoda888/2021-DIGIX-BASELINE/tree/main/baseline-game5
+- baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game5
+- 赛题讲解视频：https://www.bilibili.com/video/BV14f4y1579M
