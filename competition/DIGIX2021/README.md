@@ -1,7 +1,16 @@
 ## 2021 DIGIX全球校园AI算法精英大赛
 
-
 报名链接（限在校生）：https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/201621215957378831?ha_source=gb_sf&ha_sourceId=89000073
+
+- 赛题一：通过使用日志数据预测用户的留存周期；
+- 赛题二：通过给出的文章数据判别文章质量；
+- 赛题三：使用用户数据及历史行为数据建模完成视频推荐；
+- 赛题四：为基于多语言多模态的搜索排序任务；
+- 赛题五：为识别菜单图片中的文本信息。
+
+报名时间：2021 年 8 月 31 日前均可报名
+
+组队规则：每支队伍不超过 3 人，队长一人
 
 ---
 
@@ -17,6 +26,11 @@
 - 评价指标：Area Under Curve (AUC)
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game1
 
+- 提交文件：
+提交的结果需要包含三个文件：
+    - submission.csv：模型预测的结果文件，格式和给出的标注文件一致
+    - DIGIX Implementation Instruction.docx：一份 word 文档描述所使用的模型以及所使用的环境
+    - Source Code.zip：所使用的源码打包文件
 
 ---
 
@@ -36,6 +50,12 @@
 - 赛题讲解视频：https://www.bilibili.com/video/BV1Rf4y157eo
 
 
+- 提交文件：
+提交的结果需要包含三个文件：
+    - submission.csv：模型预测的结果文件，格式和给出的标注文件一致
+    - DIGIX Implementation Instruction.docx：一份 word 文档描述所使用的模型以及所使用的环境
+    - Source Code.zip：所使用的源码打包文件
+
 ---
 
 ### 赛题3：基于多目标优化的视频推荐
@@ -52,6 +72,11 @@
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game3
 - 赛题讲解视频：https://www.bilibili.com/video/BV1gg411M7Bx
 
+- 提交文件：
+提交的结果需要包含三个文件：
+    - submission.csv：模型预测的结果文件，格式和给出的标注文件一致
+    - DIGIX Implementation Instruction.docx：一份 word 文档描述所使用的模型以及所使用的环境
+    - Source Code.zip：所使用的源码打包文件
 
 ---
 
@@ -67,9 +92,17 @@
 
 基础数据集包含两部分：训练集和测试集。其中训练集为若干个Query下的网页排序；测试集选手需提交对提供Query的网页排序，用于计算与真实排序的HIT@K。
 
+本题目标是：在给定搜索关键字（query）和候选网页（doc）集合下，通过对 query 和网页的 title\url 等进行相关性预测，给出这个 query 对应的网页排序结果。本题包含英语和土语两个语言的数据。在训练集中，我们分别提供了这两种语言的 query和与之对应的网页排序结果（约 100 个）。选手可以基于这个训练集数据进行模型训练。预测集，我们提供了待测试的 query，以及用于召回排序的候选网页集合。选手在这个集合上进行召回排序，并将结果提交到系统。
+
 - 评价指标：HIT@K
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game4
 
+
+- 提交文件：
+提交的结果需要包含三个文件：
+    - submission.csv：模型预测的结果文件，格式和给出的标注文件一致
+    - DIGIX Implementation Instruction.docx：一份 word 文档描述所使用的模型以及所使用的环境
+    - Source Code.zip：所使用的源码打包文件
 
 ---
 
@@ -83,6 +116,23 @@
 
 本赛题为选手提供菜单图片数据及其标注。训练集包括通用字符菜单图片及少量包含特殊字符菜单图片，选手使用训练数据进行模型训练。测试集分为A/B两个测试集。测试集仅提供菜单图片，选手使用模型预测菜单图片中文本主体的位置和内容。
 
+检测并识别菜单中的文字，给出文字内容和坐标。我们提供了包括菜单图片及其对应的标注文件作为训练数据，标注以 JSON 文件形式给出。选手训练模型后在给定的测试集上预测测试菜单图片中的文字内容及坐标。本赛题使用 F1-score 作为最终效果的评价指标，综合考虑了字符级准确率 precision 和字符级召回率 recall。
+
+- 赛题数据
+
+数据包括菜单图片及其对应的标注文件，标注以 JSON 文件形式给出，格式如下：
+```
+{"imagename.jpg":[{"label":"context","points":[[x1,y1],[x2,y2],…]},…],…}
+```
+
+其中，“imagename.jpg”为图片名，“label”表示文本内容，“points”表示文本区域边缘坐标序列（文本可能是多边形）。标注文件中，“###”表示模糊字符或者其他语言字符，无需处理。
+
 - 评价指标：F1 Score
 - baseline地址：https://gitee.com/coggle/DIGIX2021-BASELINE/tree/main/baseline-game5
 - 赛题讲解视频：https://www.bilibili.com/video/BV14f4y1579M
+
+- 提交文件：
+提交的结果需要包含三个文件：
+    - label_special.json：模型预测的结果文件，格式和给出的标注文件一致
+    - DIGIX Implementation Instruction.docx：一份 word 文档描述所使用的模型以及所使用的环境
+    - Source Code.zip：所使用的源码打包文件
