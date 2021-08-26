@@ -125,6 +125,7 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 ---
 
 ### 结构化比赛
+- [第三届 Apache Flink 极客挑战赛暨AAIG CUP](https://tianchi.aliyun.com/s/ea4fbcbaadab849b7389354501f38e2e), [TF2 baseline](https://gitee.com/coggle/tianchi-3rd-AAIG-CUP)
 - [山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=24), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/shandong_shuiguan/code)
 - [山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=22), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/%E5%B1%B1%E4%B8%9C%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97)
 - [山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=26), [ChallengeHub](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/tree/main/shandong_gongjijin/code)
