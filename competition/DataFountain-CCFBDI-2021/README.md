@@ -21,3 +21,16 @@ https://www.datafountain.cn/competitions/518
 - basline2：[强哥 Bert多任务 0.67](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/blob/main/aiqiyi-baseline.ipynb)
 
 ![](https://coggle.club/assets/img/coggle_qrcode.jpg)
+
+
+## 用户上网异常行为分析
+
+- 赛题类型：结构化数据挖掘
+
+https://www.datafountain.cn/competitions/520
+
+利用机器学习、深度学习，UEBA等人工智能方法，基于无标签的用户日常上网日志数据，构建用户上网行为基线和上网行为评价模型，依据上网行为与基线的距离确定偏离程度。
+- 通过用户日常上网数据构建行为基线；
+- 采用无监督学习模型，基于用户上网行为特征，构建上网行为评价模型，评价上网行为与基线的偏离程度。
+
+- baseline：[CquptDJ](https://blog.csdn.net/qq_44694861/article/details/120423658)
