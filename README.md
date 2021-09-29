@@ -22,6 +22,8 @@
 
 ### CCF BDCI 2021
 
+baseline汇总：https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-CCFBDI-2021
+
 - 基于飞桨实现花样滑冰选手骨骼点动作识别，计算机视觉、姿态估计
 - 千言-问题匹配鲁棒性评测，自然语言处理、文本匹配
 - 基于MindSpore AI框架实现零售商品识别，计算机视觉、图像分类
