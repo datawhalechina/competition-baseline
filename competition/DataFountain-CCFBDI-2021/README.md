@@ -46,4 +46,22 @@ https://www.datafountain.cn/competitions/529
 
 - baseline：[恒哥](https://github.com/LogicJake/competition_baselines/tree/master/competitions/2021ccf_ner)
 
+## 基于飞桨实现花样滑冰选手骨骼点动作识别
 
+- 赛题类型：计算机视觉、姿态估计
+
+https://www.datafountain.cn/competitions/519/
+
+基于现实场景的应用需求以及图深度学习模型的发展，本次比赛旨在通过征集各队伍建立的高精度、细粒度、意义明确的动作识别模型，探索基于骨骼点的时空细粒度人体动作识别新方法。本次比赛将基于评价指标Accuracy对各队伍提交结果的评测成绩进行排名，Accuracy得分越高，则认为该模型的动作识别效果越好。
+
+- baseline：[飞浆](https://aistudio.baidu.com/aistudio/projectdetail/2417717)
+
+## 千言-问题匹配鲁棒性评测
+
+- 赛题类型：NLP、文本匹配
+
+https://www.datafountain.cn/competitions/516/
+
+问题匹配（Question Matching）任务旨在判断两个自然问句之间的语义是否等价，是自然语言处理领域的一个重要研究方向。问题匹配同时也具有很高的商业价值，在信息检索、智能客服等领域发挥着重要作用。
+
+- baseline：[飞浆](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/text_matching/question_matching)
