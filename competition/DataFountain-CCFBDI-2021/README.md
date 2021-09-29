@@ -34,3 +34,16 @@ https://www.datafountain.cn/competitions/520
 - 采用无监督学习模型，基于用户上网行为特征，构建上网行为评价模型，评价上网行为与基线的偏离程度。
 
 - baseline：[CquptDJ](https://blog.csdn.net/qq_44694861/article/details/120423658)
+
+
+## 产品评论观点提取
+
+- 赛题类型：NLP、NER
+
+https://www.datafountain.cn/competitions/529
+
+观点提取旨在从非结构化的评论文本中提取标准化、结构化的信息，如产品名、评论维度、评论观点等。此处希望大家能够通过自然语言处理的语义情感分析技术判断出一段银行产品评论文本的情感倾向，并能进一步通过语义分析和实体识别，标识出评论所讨论的产品名，评价指标和评价关键词。
+
+- baseline：[恒哥](https://github.com/LogicJake/competition_baselines/tree/master/competitions/2021ccf_ner)
+
+
