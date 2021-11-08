@@ -20,6 +20,12 @@
 
 ---
 
+### 2021阿里云供应链大赛——需求预测及单级库存优化
+报名链接：https://tianchi.aliyun.com/competition/entrance/531934/introduction
+比赛baseline
+
+---
+
 ### CCF BDCI 2021
 
 baseline汇总：https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-CCFBDI-2021
