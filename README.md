@@ -22,7 +22,8 @@
 
 ### 2021阿里云供应链大赛——需求预测及单级库存优化
 报名链接：https://tianchi.aliyun.com/competition/entrance/531934/introduction
-比赛baseline
+
+比赛baseline:https://github.com/datawhalechina/competition-baseline/tree/master/competition/2021阿里云供应链大赛——需求预测及单级库存优化
 
 ---
 
