@@ -1,3 +1,23 @@
+# AIWIN 秋季竞赛
+
+
+## 赛题1- 手写体 OCR 识别竞赛
+
+手写体 OCR 识别竞赛由交通银行命题，设立两个任务，其中任务一由第四范式提供开放数据集，特别针对金额和日期做识别，任务二要求在指定训练环境完成不可下载训练集的训练，增加了银行机构的文本内容。任务一适合新手，并配套学习营和特别的学习奖励。
+
+比赛地址：http://ailab.aiwin.org.cn/competitions/65
+
+baseline地址：https://aistudio.baidu.com/aistudio/projectdetail/2612313
+
+## 赛题2- 心电图智能诊断竞赛
+
+心电图智能诊断竞赛由数创医疗和复旦大学附属中山医院共同命题，设立两个任务，其中任务一诊断心电图的正常异常与否，任务二对10+种不同症状予以判断综合分类。任务一同步设有学习营和配套的学习奖励，欢迎新手参与。
+
+比赛地址：http://ailab.aiwin.org.cn/competitions/64
+
+baseline地址：https://aistudio.baidu.com/aistudio/projectdetail/2653802
+
+# AIWIN 春季竞赛
 
 ## 赛题1—互联网舆情企业风险事件的识别和预警
 
