@@ -1,5 +1,7 @@
 **WSDM会议（CCF B类会议）** 是涉及搜索和数据挖掘的网络启发研究的主要会议之一。WSDM Cup将于10月15日开始，一直持续2022年到1月下旬。
 
+> 比赛赛题解析录屏（11月28日）：https://www.bilibili.com/video/BV1Ng411K7Jm/
+
 ## User Retention Score Prediction
 
 http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6
