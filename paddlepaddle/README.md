@@ -8,11 +8,15 @@
 - 科大讯飞-电商图像检索挑战赛
   - [科大讯飞-电商图像检索挑战赛：基础思路CNN相似度](https://aistudio.baidu.com/aistudio/projectdetail/2798206)
 - [AIWIN 手写体OCR识别竞赛](https://aistudio.baidu.com/aistudio/projectdetail/2612313)
+- [DataFountain-交通标志分类识别：CNN多分类](https://aistudio.baidu.com/aistudio/projectdetail/3171955)
+- [DataFountain-天气以及时间分类：CNN多标签分类](https://aistudio.baidu.com/aistudio/projectdetail/3169455)
 
 ### 自然语言处理比赛
 
 - [科大讯飞-学术论文分类挑战赛：ERNIE](https://aistudio.baidu.com/aistudio/projectdetail/3162632)
 - [科大讯飞-中文问题相似度挑战赛：ERNIE-NSP](https://aistudio.baidu.com/aistudio/projectdetail/3168859)
+- [DataFountain-疫情期间网民情绪识别：ERNIE分类](https://aistudio.baidu.com/aistudio/projectdetail/3172384)
+- [科大讯飞-中文成语填空挑战赛：ERNIE MASK填空](https://aistudio.baidu.com/aistudio/projectdetail/3169048)
 
 ### 推荐系统&CTR比赛
 
