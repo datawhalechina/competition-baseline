@@ -27,6 +27,11 @@ $n$是测试集用户数量，$F$是参赛者对用户的7日留存分预测值�
 
 ### 赛题开源
 
+- [第一名思路](https://zhuanlan.zhihu.com/p/462736790), [代码](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)
+- [第三名代码](https://github.com/Chenfei-Kang/2022_WSDM_iQiYi_Retention_Score_Prediction)
+
+### 其他开源
+
 - [`举办方`开源了84.5分数的代码](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)，基于Keras，需要32G内存 + 4G GPU
 - [`阿水`基于举办方改写了模型代码](https://aistudio.baidu.com/aistudio/projectdetail/2715522)，线上85.5，基于PaddlePaddle，需要32G内存 + 4G GPU
 - [`第一次打比赛`只使用了两个特征](https://github.com/LogicJake/competition_baselines/tree/master/competitions/wsdm_iqiyi_torch)，基于Pytorch，需要8G内存 + 4G GPU
