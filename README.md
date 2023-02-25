@@ -20,6 +20,21 @@
 
 ---
 
+### 2022年人民网算法挑战赛
+
+ 为推进人工智能领域的学术交流、人才培养、技术发展，鼓励广大学生积极学习和研发符合我国主流价值观的优秀算法， 2022年11-12月举办“2022人民网人工智能算法大赛”，赛事由人民网股份有限公司主办，传播内容认知全国重点实验室承办。 
+
+[http://data.sklccc.com/2022](http://data.sklccc.com/2022)
+
+- 赛题一：对话生成，[https://aistudio.baidu.com/aistudio/projectdetail/5563450](https://aistudio.baidu.com/aistudio/projectdetail/5563450)
+- 赛题二：微博话题识别，[https://aistudio.baidu.com/aistudio/projectdetail/5563970](https://aistudio.baidu.com/aistudio/projectdetail/5563970)
+- 赛题三：微博流行度预测，[https://aistudio.baidu.com/aistudio/projectdetail/5567567](https://aistudio.baidu.com/aistudio/projectdetail/5567567)
+- 赛题四：微博转发行为预测
+- 赛题五：社交媒体机器人识别，[https://aistudio.baidu.com/aistudio/projectdetail/5563450](https://aistudio.baidu.com/aistudio/projectdetail/5563450)
+
+
+---
+
 ### 2022年度 iFLYTEK A.I. 开发者大赛
 
 2022年度 iFLYTEK A.I. 开发者大赛来了。本届大赛的总奖金池已升级到了超420万元，除此外还将进一步开放海量数据与核心技术，汇聚更多人工智能开发者，提供创孵平台，培育优质团队，给予扶持政策等。
