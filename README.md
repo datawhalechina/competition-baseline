@@ -304,3 +304,8 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 ## LICENSE
 
 [GNU General Public License v3.0](https://github.com/datawhalechina/competition-baseline/blob/master/LICENSE)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/competition-baseline&type=Date)](https://star-history.com/#datawhalechina/competition-baseline&Date)
+
