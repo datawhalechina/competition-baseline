@@ -15,7 +15,7 @@ s3cmd put person-post-matching-2023.tar.gz s3://ai-competition/你的url/
 
 run.py代码内容如下：
 
-```
+```python
 import json
 import pandas as pd
 import numpy as np
