@@ -25,6 +25,7 @@
 
 赛题报名链接：[https://www.dcic-china.com/competitions/10098](https://www.dcic-china.com/competitions/10098)
 
+- [无外部数据方案B榜0.0715](https://github.com/datawhalechina/competition-baseline/tree/master/competition/2024%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9BDCIC/%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5%E5%87%BA%E5%8A%9B%E9%A2%84%E6%B5%8B%E8%B5%9B%E9%81%93)
 
 ---
 
@@ -33,8 +34,6 @@
 2023科大讯飞AI开发者大赛正式启动，现开始报名。本次大赛在“36道应用赛+72道算法赛”的基础上，还开设了高校认知大模型场景创新赛和机器人设计赛，覆盖大模型、智能语音、计算机视觉、自然语言、先进智造、VR等人工智能热门技术，涵盖多行业领域，总奖金池累计超400万。
 
 赛题报名链接：[https://challenge.xfyun.cn/?ch=vWxQGFU](https://challenge.xfyun.cn/?ch=vWxQGFU)
-
-无外部数据方案: 
 
 ---
 
