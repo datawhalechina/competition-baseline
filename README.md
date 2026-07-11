@@ -18,6 +18,16 @@
 
 如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
 
+
+---
+
+### 2026科大讯飞AI开发者大赛
+
+本届大赛赛题全面升级，582+前沿AI赛题，加速181000+开发者团队成长，本届新增skill开发挑战赛。
+
+赛题报名链接：[https://challenge.xfyun.cn/competition?typeSelected=algorithem&ch=2026dsDW1](https://challenge.xfyun.cn/competition?typeSelected=algorithem&ch=2026dsDW1)
+
+
 ---
 
 ### 2025科大讯飞AI开发者大赛
