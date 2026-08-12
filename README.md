@@ -369,5 +369,5 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/competition-baseline&type=Date)](https://star-history.com/#datawhalechina/competition-baseline&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=datawhalechina/competition-baseline&type=Date)](https://star-history.dera.page/#datawhalechina/competition-baseline&Date)
 
